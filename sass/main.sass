@@ -109,7 +109,10 @@ button
 		border-radius: 50px
 		border: 2px solid #431d56
 		box-shadow: 1px 1px 5px #431d56
-
+	.nav_button.active
+		border: 2px solid #fff
+		background: rgba(255,255,255,0.1)
+		box-shadow: 1px 1px 5px #fff
 .week_menu
 	position: fixed
 	width: 80vw
@@ -136,6 +139,10 @@ button
 		&:hover
 			border: 1px solid #fff
 			box-shadow: 1px 1px 5px #fff
+	.week_button.active
+		border: 2px solid #fff
+		background: rgba(255,255,255,0.1)
+		box-shadow: 1px 1px 5px #fff
 .schedule_container
 	width: 80vw
 	height: 80vh
@@ -236,7 +243,10 @@ button
 					border: 1px solid #431d56
 					width: 80%
 				.teacher
-					width: 80%
+					width: 60%
+					border: 1px solid #431d56
+				.cabinet
+					width: 20%
 					border: 1px solid #431d56
 				.time
 					width: 20%
