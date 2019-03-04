@@ -169,17 +169,18 @@ button
 		display: -ms-flex
 		display: -o-flex
 		display: flex
-		span
-			width: 50%
+		#nav_branch
+			width: 80%
+			padding: 0 50px
+			font-size: 20px
+			color: #431d56
+		#week_branch
+			width: 20%
 			padding: 0 50px
 			font-size: 20px
 			color: #431d56
 	.schedule_group_array
-		display: -webkit-flex
-		display: -moz-flex
-		display: -ms-flex
-		display: -o-flex
-		display: flex
+		display: none
 		flex-wrap: wrap
 		margin-top: 20px
 		justify-content: flex-start
@@ -190,31 +191,33 @@ button
 				border: none
 				position: relative
 				border-radius: 50px
-				width: 70px
-				height: 70px
-				margin: 15px
-				font-size: 20px
+				width: 65px
+				height: 65px
+				margin: 10px
+				font-size: 18px
 		.active
 			button
 				&::after
 					content: ''
 					position: absolute
-					width: 83px
-					height: 83px
+					width: 75px
+					height: 75px
 					background: url('../img/detail.png')
 					background-size: cover
 					background-position: 0 0
-					top: -7px
-					left: -6px
+					top: -5px
+					left: -5px
 					animation: 2s rotare_detail linear infinite
-	.schedule_box_array
-		height: 50%
-		width: 100%
+	.schedule_group_array.active
 		display: -webkit-flex
 		display: -moz-flex
 		display: -ms-flex
 		display: -o-flex
 		display: flex
+	.schedule_box_array
+		height: 50%
+		width: 100%
+		display: none
 		justify-content: flex-start
 		align-items: flex-start
 		.schedule_box
@@ -251,12 +254,18 @@ button
 				.time
 					width: 20%
 					border: 1px solid #431d56
-					&::after
+					font-size: 14px
 				.lesson_num
 					width: 20%
 					border: 1px solid #431d56
 		.active
 			display: block
+	.schedule_box_array.active
+		display: -webkit-flex
+		display: -moz-flex
+		display: -ms-flex
+		display: -o-flex
+		display: flex
 @keyframes rotare_detail
 	0%
 		transform: rotate(0deg)
