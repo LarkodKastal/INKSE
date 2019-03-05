@@ -241,26 +241,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -270,26 +270,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -299,26 +299,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -328,26 +328,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -357,26 +357,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -386,26 +386,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -415,26 +415,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -444,26 +444,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -473,26 +473,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -502,26 +502,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -531,26 +531,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -560,26 +560,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -589,26 +589,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -618,26 +618,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -647,26 +647,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -676,26 +676,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -705,26 +705,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -734,26 +734,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -763,26 +763,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -792,26 +792,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -821,26 +821,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -850,26 +850,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -879,26 +879,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -908,26 +908,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -940,26 +940,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -969,26 +969,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -998,26 +998,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -1027,26 +1027,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -1056,26 +1056,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -1085,26 +1085,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -1114,26 +1114,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -1143,26 +1143,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -1172,26 +1172,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -1201,26 +1201,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -1230,26 +1230,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -1259,26 +1259,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -1288,26 +1288,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -1317,26 +1317,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -1346,26 +1346,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -1375,26 +1375,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -1404,26 +1404,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -1436,26 +1436,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -1465,26 +1465,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -1494,26 +1494,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -1523,26 +1523,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -1552,26 +1552,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -1581,26 +1581,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -1610,26 +1610,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -1639,26 +1639,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -1668,26 +1668,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -1697,26 +1697,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -1726,26 +1726,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -1755,26 +1755,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -1784,26 +1784,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -1813,26 +1813,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -1842,26 +1842,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -1871,26 +1871,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -1900,26 +1900,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -1929,26 +1929,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -1961,26 +1961,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -1990,26 +1990,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -2019,26 +2019,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -2048,26 +2048,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -2077,26 +2077,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -2106,26 +2106,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -2135,26 +2135,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -2164,26 +2164,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -2193,26 +2193,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -2222,26 +2222,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -2251,26 +2251,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -2280,26 +2280,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -2309,26 +2309,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -2338,26 +2338,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -2367,26 +2367,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -2396,26 +2396,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -2425,26 +2425,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -2454,26 +2454,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -2483,26 +2483,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -2512,26 +2512,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -2540,320 +2540,320 @@
 		<!-- Dep_ID=5 -->
 		<div class="schedule_box_array"> 
 			<div class="schedule_box ">
-				<div class="group">П-11</div>
+				<div class="group">ТТ-11</div>
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
 			</div>
 			<div class="schedule_box ">
-				<div class="group">П-21</div>
+				<div class="group">ВС-11</div>
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
 			</div>
 			<div class="schedule_box ">
-				<div class="group">П-31</div>
+				<div class="group">СГ-11</div>
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
 			</div>
 			<div class="schedule_box">
-				<div class="group">П-41</div>
+				<div class="group">СГ-12</div>
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
 			</div>
 			<div class="schedule_box">
-				<div class="group">И-11</div>
+				<div class="group">МД-11</div>
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
 			</div>
 			<div class="schedule_box">
-				<div class="group">И-21</div>
+				<div class="group">Г-11</div>
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
 			</div>
 			<div class="schedule_box ">
-				<div class="group">И-31</div>
+				<div class="group">МВ-21</div>
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
 			</div>
 			<div class="schedule_box ">
-				<div class="group">И-41</div>
+				<div class="group">ТТ-21</div>
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
 			</div>
 			<div class="schedule_box">
-				<div class="group">ИС-11</div>
+				<div class="group">МД-21</div>
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
 			</div>
 			<div class="schedule_box">
-				<div class="group">ИС-21</div>
+				<div class="group">СГ-21</div>
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
 			</div>
 			<div class="schedule_box">
-				<div class="group">ИС-31</div>
+				<div class="group">СГ-22</div>
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -2863,26 +2863,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -2892,26 +2892,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -2921,26 +2921,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -2950,26 +2950,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -2979,26 +2979,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -3011,26 +3011,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -3040,229 +3040,113 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
 			</div>
 			<div class="schedule_box ">
-				<div class="group">П-31</div>
+				<div class="group">ТО-11</div>
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
 			</div>
 			<div class="schedule_box">
-				<div class="group">П-41</div>
-				<div class="schedule_list">
-					<div class="schelude_item">
-						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
-						<span class="time">13:10</span>
-						
-						<span class="teacher">Ладовер Т.М.</span>
-						<span class="cabinet">B503</span>
-					</div>
-					<div class="schelude_item">
-						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
-						<span class="time">14:30</span>
-						
-						<span class="teacher">Козлова С.В.</span>
-						<span class="cabinet">B503</span>
-					</div>
-					<div class="schelude_item">
-						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
-						<span class="time">16:10</span>
-						
-						<span class="teacher">Белова С.В.</span>
-						<span class="cabinet">B503</span>
-					</div>
-				</div>
-			</div>
-			<div class="schedule_box">
-				<div class="group">И-11</div>
-				<div class="schedule_list">
-					<div class="schelude_item">
-						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
-						<span class="time">13:10</span>
-						
-						<span class="teacher">Ладовер Т.М.</span>
-						<span class="cabinet">B503</span>
-					</div>
-					<div class="schelude_item">
-						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
-						<span class="time">14:30</span>
-						
-						<span class="teacher">Козлова С.В.</span>
-						<span class="cabinet">B503</span>
-					</div>
-					<div class="schelude_item">
-						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
-						<span class="time">16:10</span>
-						
-						<span class="teacher">Белова С.В.</span>
-						<span class="cabinet">B503</span>
-					</div>
-				</div>
-			</div>
-			<div class="schedule_box">
-				<div class="group">И-21</div>
-				<div class="schedule_list">
-					<div class="schelude_item">
-						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
-						<span class="time">13:10</span>
-						
-						<span class="teacher">Ладовер Т.М.</span>
-						<span class="cabinet">B503</span>
-					</div>
-					<div class="schelude_item">
-						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
-						<span class="time">14:30</span>
-						
-						<span class="teacher">Козлова С.В.</span>
-						<span class="cabinet">B503</span>
-					</div>
-					<div class="schelude_item">
-						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
-						<span class="time">16:10</span>
-						
-						<span class="teacher">Белова С.В.</span>
-						<span class="cabinet">B503</span>
-					</div>
-				</div>
-			</div>
-			<div class="schedule_box ">
 				<div class="group">И-31</div>
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
-						<span class="cabinet">B503</span>
-					</div>
-				</div>
-			</div>
-			<div class="schedule_box ">
-				<div class="group">И-41</div>
-				<div class="schedule_list">
-					<div class="schelude_item">
-						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
-						<span class="time">13:10</span>
-						
-						<span class="teacher">Ладовер Т.М.</span>
-						<span class="cabinet">B503</span>
-					</div>
-					<div class="schelude_item">
-						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
-						<span class="time">14:30</span>
-						
-						<span class="teacher">Козлова С.В.</span>
-						<span class="cabinet">B503</span>
-					</div>
-					<div class="schelude_item">
-						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
-						<span class="time">16:10</span>
-						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
 			</div>
 			<div class="schedule_box">
-				<div class="group">ИС-11</div>
+				<div class="group">И-41</div>
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -3272,113 +3156,84 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
 			</div>
-			<div class="schedule_box">
+			<div class="schedule_box ">
 				<div class="group">ИС-31</div>
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
 			</div>
-			<div class="schedule_box">
-				<div class="group">ИС-41</div>
+			<div class="schedule_box ">
+				<div class="group">П-41</div>
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
-						<span class="cabinet">B503</span>
-					</div>
-				</div>
-			</div>
-			<div class="schedule_box">
-				<div class="group">ТО-11</div>
-				<div class="schedule_list">
-					<div class="schelude_item">
-						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
-						<span class="time">13:10</span>
-						
-						<span class="teacher">Ладовер Т.М.</span>
-						<span class="cabinet">B503</span>
-					</div>
-					<div class="schelude_item">
-						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
-						<span class="time">14:30</span>
-						
-						<span class="teacher">Козлова С.В.</span>
-						<span class="cabinet">B503</span>
-					</div>
-					<div class="schelude_item">
-						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
-						<span class="time">16:10</span>
-						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -3388,26 +3243,26 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
@@ -3417,526 +3272,584 @@
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
 			</div>
 			<div class="schedule_box">
-				<div class="group">ТО-41</div>
+				<div class="group">И-11</div>
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
-			</div> 
+			</div>
 		</div>
 		<!-- Dep_ID=7 -->
 		<div class="schedule_box_array"> 
 			<div class="schedule_box ">
-				<div class="group">П-11</div>
+				<div class="group">ГС-11</div>
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
 			</div>
 			<div class="schedule_box ">
-				<div class="group">П-21</div>
+				<div class="group">ГС-12</div>
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
 			</div>
 			<div class="schedule_box ">
-				<div class="group">П-31</div>
+				<div class="group">Р-11</div>
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
 			</div>
 			<div class="schedule_box">
-				<div class="group">П-41</div>
+				<div class="group">Д-11</div>
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
 			</div>
 			<div class="schedule_box">
-				<div class="group">И-11</div>
+				<div class="group">Д-12</div>
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
 			</div>
 			<div class="schedule_box">
-				<div class="group">И-21</div>
+				<div class="group">ПИ-11</div>
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
 			</div>
 			<div class="schedule_box ">
-				<div class="group">И-31</div>
+				<div class="group">ГС-21</div>
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
 			</div>
 			<div class="schedule_box ">
-				<div class="group">И-41</div>
+				<div class="group">ГС-22</div>
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
 			</div>
 			<div class="schedule_box">
-				<div class="group">ИС-11</div>
+				<div class="group">Р-21</div>
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
 			</div>
 			<div class="schedule_box">
-				<div class="group">ИС-21</div>
+				<div class="group">Д-21</div>
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
 			</div>
 			<div class="schedule_box">
-				<div class="group">ИС-31</div>
+				<div class="group">ПИ-21</div>
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
 			</div>
 			<div class="schedule_box">
-				<div class="group">ИС-41</div>
+				<div class="group">ГС-31</div>
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
 			</div>
 			<div class="schedule_box">
-				<div class="group">ТО-11</div>
+				<div class="group">ГС-32</div>
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
 			</div>
 			<div class="schedule_box">
-				<div class="group">ТО-21</div>
+				<div class="group">Р-32</div>
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
 			</div>
 			<div class="schedule_box">
-				<div class="group">ТО-31</div>
+				<div class="group">Д-31</div>
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
 			</div>
 			<div class="schedule_box">
-				<div class="group">ТО-41</div>
+				<div class="group">ПИ-31</div>
 				<div class="schedule_list">
 					<div class="schelude_item">
 						<span class="lesson_num">4</span>
-						<p class="lesson_name">Мат.методы</p>
+						<p class="lesson_name">Длинное наименование пары</p>
 						<span class="time">13:10</span>
 						
-						<span class="teacher">Ладовер Т.М.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">5</span>
-						<p class="lesson_name">Математика</p>
+						<p class="lesson_name">Наименование пары</p>
 						<span class="time">14:30</span>
 						
-						<span class="teacher">Козлова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 					<div class="schelude_item">
 						<span class="lesson_num">6</span>
-						<p class="lesson_name">Прог. в комп. мех. системах</p>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
 						<span class="time">16:10</span>
 						
-						<span class="teacher">Белова С.В.</span>
+						<span class="teacher">Преподователь И.О.</span>
 						<span class="cabinet">B503</span>
 					</div>
 				</div>
 			</div> 
+			<div class="schedule_box">
+				<div class="group">Р-41</div>
+				<div class="schedule_list">
+					<div class="schelude_item">
+						<span class="lesson_num">4</span>
+						<p class="lesson_name">Длинное наименование пары</p>
+						<span class="time">13:10</span>
+						
+						<span class="teacher">Преподователь И.О.</span>
+						<span class="cabinet">B503</span>
+					</div>
+					<div class="schelude_item">
+						<span class="lesson_num">5</span>
+						<p class="lesson_name">Наименование пары</p>
+						<span class="time">14:30</span>
+						
+						<span class="teacher">Преподователь И.О.</span>
+						<span class="cabinet">B503</span>
+					</div>
+					<div class="schelude_item">
+						<span class="lesson_num">6</span>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
+						<span class="time">16:10</span>
+						
+						<span class="teacher">Преподователь И.О.</span>
+						<span class="cabinet">B503</span>
+					</div>
+				</div>
+			</div>
+			<div class="schedule_box">
+				<div class="group">Д-41</div>
+				<div class="schedule_list">
+					<div class="schelude_item">
+						<span class="lesson_num">4</span>
+						<p class="lesson_name">Длинное наименование пары</p>
+						<span class="time">13:10</span>
+						
+						<span class="teacher">Преподователь И.О.</span>
+						<span class="cabinet">B503</span>
+					</div>
+					<div class="schelude_item">
+						<span class="lesson_num">5</span>
+						<p class="lesson_name">Наименование пары</p>
+						<span class="time">14:30</span>
+						
+						<span class="teacher">Преподователь И.О.</span>
+						<span class="cabinet">B503</span>
+					</div>
+					<div class="schelude_item">
+						<span class="lesson_num">6</span>
+						<p class="lesson_name">Очень длинное наименование пары без сокращений</p>
+						<span class="time">16:10</span>
+						
+						<span class="teacher">Преподователь И.О.</span>
+						<span class="cabinet">B503</span>
+					</div>
+				</div>
+			</div>
 		</div>
 	</div>
 
