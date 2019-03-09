@@ -1,5 +1,6 @@
-var date = new Date(2018,0.3);
-$('.week_button').eq(date.getDay()).addClass('active');
+var date = new Date();
+alert(date.getDay())
+$('.week_button').eq(date.getDay()-1).addClass('active');
 $('#week_branch').text($('.week_button.active').text())
 
 $(function() {
