@@ -20,12 +20,12 @@ if (is_admin() or is_manager()) {
 
 		$query 		= mysqli_query($connect,"INSERT INTO `schedule_list`(`Num`, `Name`, `Time`, `TeacherName`, `NumRoom`, `GroupName`, `DayWeek`) VALUES ('$num','$name','$time','$teacher','$room','$group','$week_day')");
 
-		header('Location: ' . $home_url . '/app/include/admin_panel.php?success="Элемент расписания успешно создан!"');
+		header('Location: ' . $home_url . '/include/admin_panel.php?success="Элемент расписания успешно создан!"');
 
 	}
 	else
 	{
-		header('Location: ' . $home_url . '/app/include/admin_panel.php?error="Не все поля заполненны"');
+		header('Location: ' . $home_url . '/include/admin_panel.php?error="Не все поля заполненны"');
 				exit();
 	}
 }

@@ -9,7 +9,7 @@ if (is_admin() or is_manager()) {
 		$query 	= "DELETE FROM `group_list` WHERE id = '$id'";
 		mysqli_query($connect,$query);
 		mysqli_query($connect,"UPDATE `group_list` SET id = id-1 WHERE id > '$id'");
-		header('Location: ' . $home_url . '/app/include/admin_panel.php?success="Группа успешно удалена!"');
+		header('Location: ' . $home_url . '/include/admin_panel.php?success="Группа успешно удалена!"');
 	}
 }
 

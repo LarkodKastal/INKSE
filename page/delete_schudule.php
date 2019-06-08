@@ -9,7 +9,7 @@ if (is_admin()) {
 		$query 	= "DELETE FROM `schedule_list` WHERE id = '$id'";
 		mysqli_query($connect,$query);
 		mysqli_query($connect,"UPDATE `schedule_list` SET id = id-1 WHERE id > '$id'");
-		header('Location: ' . $home_url . '/app/include/admin_panel.php?success="Элемент расписания успешно удален!"');
+		header('Location: ' . $home_url . '/include/admin_panel.php?success="Элемент расписания успешно удален!"');
 	}
 }
 

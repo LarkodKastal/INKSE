@@ -33,11 +33,11 @@ if (is_admin() or is_manager()) {
 			$short_desc	= $_GET['short_desc'];
 		}
 		mysqli_query($connect,"UPDATE `tamplate_list` SET `Num`='$num',`Name`='$name',`Time`='$time',`TeacherName`='$teacher',`NumRoom`='$room',`GroupName`='$group',`Department`='$deportment',`Short_desc`='$short_desc' WHERE id = '$id'");
-		header('Location: ' . $home_url . '/app/include/admin_panel.php?success="Шаблон успешно изменен!"');
+		header('Location: ' . $home_url . '/include/admin_panel.php?success="Шаблон успешно изменен!"');
 	}
 	else
 	{
-		header('Location: ' . $home_url . '/app/include/admin_panel.php?error="Не все поля заполненны"');
+		header('Location: ' . $home_url . '/include/admin_panel.php?error="Не все поля заполненны"');
 		exit();
 	}
 }

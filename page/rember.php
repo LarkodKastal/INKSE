@@ -5,7 +5,7 @@ require '../include/function.php';
 
 if (isset($_GET['group'])) {
 	setcookie('group_name',$_GET['group'],time()+60*60*60,'/');
-	header('Location: ' . $home_url . '/app/mobile_main.php?group_name='.$_GET['group'].'');
+	header('Location: ' . $home_url . '/mobile_main.php?group_name='.$_GET['group'].'');
 }
 
 ?>

@@ -19,12 +19,12 @@ if (is_admin() or is_manager()) {
 
 		$query 		= mysqli_query($connect,"UPDATE `schedule_list` SET `Num`='$num',`Name`='$name',`Time`='$time',`TeacherName`='$teacher',`NumRoom`='$room',`GroupName`='$group',`DayWeek`='$week_day' WHERE id = '$id'");
 
-		header('Location: ' . $home_url . '/app/include/admin_panel.php?success="Элемент расписания успешно изменен!"');
+		header('Location: ' . $home_url . '/include/admin_panel.php?success="Элемент расписания успешно изменен!"');
 
 	}
 	else
 	{
-		header('Location: ' . $home_url . '/app/include/admin_panel.php?error="Не все поля заполненны"');
+		header('Location: ' . $home_url . '/include/admin_panel.php?error="Не все поля заполненны"');
 				exit();
 	}
 }

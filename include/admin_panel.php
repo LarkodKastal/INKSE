@@ -10,7 +10,7 @@ require('config.php');
 require('function.php');
 
 $connect = MYSQL_INCLUDE('get_connect');
-$this_url = $home_url . '/app/include/admin_panel.php';
+$this_url = $home_url . '/include/admin_panel.php';
 $screen = 0;
 if (isset($_GET['screen'])) {
 	$screen = $_GET['screen'];
@@ -89,7 +89,7 @@ require('header.php');
 				<button class="create_button">Создать пользователя</button>
 				<div class="form_create_user">
 					<form 
-					action="<?php echo($home_url . '/app/page/create_user.php');?>"
+					action="<?php echo($home_url . '/page/create_user.php');?>"
 					method="get">
 						<input placeholder="Наименование" type="text" name="username">
 						<input placeholder="Пороль" type="text" name="password">
@@ -395,7 +395,7 @@ require('header.php');
 				<div class="tamplate_list">
 					<div>Создание блока</div>
 					<div class="create_form_container">
-						<form action="<?php echo $home_url.'/app/page/create_schudule.php'?>" method='get'>
+						<form action="<?php echo $home_url.'/page/create_schudule.php'?>" method='get'>
 							<input 
 							class="num" 
 							type="number" 

@@ -38,9 +38,9 @@ function MYSQL_INCLUDE($query='none')
 
 }
 
-$home_url = 'http://' . MYSQL_INCLUDE('get_server_name');
-$page_url = $home_url . '/app/page';
-$img_url = $home_url . '/app/img';
+$home_url = 'http://' . MYSQL_INCLUDE('get_server_name') . '/app';
+$page_url = $home_url . '/page';
+$img_url = $home_url . '/img';
 $title_name = 'НКСЭ расписание';
 
 ?>

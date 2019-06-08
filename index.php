@@ -1,0 +1,1 @@
+<? header('Location: ' . $SERVER['SERVER_NAME'] . '/main.php');

@@ -14,7 +14,7 @@ if (is_admin()) {
 		$id 		= mysqli_num_rows($quary_id)+1;
 		$uf = mysqli_query($connect,"INSERT INTO `users`(`Id`, `Username`, `Password`, `Access`) VALUES ($id,'$name',$password,'$access')");
 		
-		header('Location: ' . $home_url . '/app/include/admin_panel.php?success="Пользователь успешно создан!');
+		header('Location: ' . $home_url . '/include/admin_panel.php?success="Пользователь успешно создан!');
 	}
 }
 

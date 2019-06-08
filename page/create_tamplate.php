@@ -33,11 +33,11 @@ if (is_admin() or is_manager()) {
 		}
 		$quary = "INSERT INTO `tamplate_list`(`Num`, `Name`, `Time`, `TeacherName`, `NumRoom`, `GroupName`, `Department`, `Short_desc`) VALUES ('$num','$name','$time','$teacher','$room','$group','$deportment','$short_desc')";
 		mysqli_query($connect,$quary);
-		header('Location: ' . $home_url . '/app/include/admin_panel.php?success="Шаблон успешно создан!"');
+		header('Location: ' . $home_url . '/include/admin_panel.php?success="Шаблон успешно создан!"');
 	}
 	else
 	{
-		header('Location: ' . $home_url . '/app/include/admin_panel.php?error="Не все поля заполненны"');
+		header('Location: ' . $home_url . '/include/admin_panel.php?error="Не все поля заполненны"');
 				exit();
 	}
 }

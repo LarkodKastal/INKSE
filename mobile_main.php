@@ -4,7 +4,7 @@ $title_name = 'НКСЭ расписание';
 require 'include/config.php';
 require 'include/function.php';
 
-$this_url = $home_url . '/app/mobile_main.php';
+$this_url = $home_url . '/mobile_main.php';
 $connect = MYSQL_INCLUDE('get_connect');
 
 /* Запрос данных о расписании */
@@ -237,8 +237,8 @@ require 'include/header.php';
 
 	<script src="js/scripts.min.js"></script>
 	<script type="text/javascript">
-		if (document.documentElement.clientWidth >= 768 && window.location.href != "http://nkseinterface/app/main.php") {
-			window.location.href = "http://nkseinterface/app/main.php"
+		if (document.documentElement.clientWidth >= 768 && window.location.href != "<?php echo $home_url; ?>/main.php") {
+			window.location.href = "<?php echo $home_url; ?>/main.php"
 		}
 		$('.week_button').eq(<?php echo($week_int);?>).addClass('active');
 		$('#week_branch').text($('.week_button').eq(<?php echo($week_int);?>).text())

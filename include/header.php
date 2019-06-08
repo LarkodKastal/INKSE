@@ -24,7 +24,7 @@
 	<!-- iOS Safari -->
 	<meta name="apple-mobile-web-app-status-bar-style" content="#000">
 
-	<link rel="stylesheet" href="<?php echo $home_url; ?>/app/css/main.min.css">
+	<link rel="stylesheet" href="<?php echo $home_url; ?>/css/main.min.css">
 	<link rel="stylesheet" href="http://ajax.aspnetcdn.com/ajax/jquery.ui/1.10.3/themes/sunny/jquery-ui.css">
 
 </head>
