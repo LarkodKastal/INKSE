@@ -1,7 +1,10 @@
+
+
+
+
 var date = new Date();
-alert(date.getDay())
-$('.week_button').eq(date.getDay()-1).addClass('active');
 $('#week_branch').text($('.week_button.active').text())
+var dep_index = 0
 
 $(function() {
 	var schedule_array = 0;
@@ -26,29 +29,93 @@ $(function() {
 			}
 			schedule_array++
 			$(this).addClass('active');
+			if (is_mobile()) {
+			$('.schedule_box_array').eq(dep_index).addClass('active')
+			$('.respons_rememb').show(300)
+			}
 			$('.schedule_box_array.active .schedule_box').eq(parseInt($(this).index())).addClass('active')
 		}
 	});
 
+	$('.control_buttons').click(function()
+	{
+		var index_button = $(this).index()
+		$('.control_dir').hide(300)
+		$('.control_dir').eq(index_button-1).show(300)
+		$('.control_buttons').removeClass('active')
+		$(this).addClass('active')
+	});
 
 	$('.nav_button').click(function(){
-		$('#nav_branch').text($(this).attr('alt'))
-		$('.nav_button').removeClass('active')
-		$('.schedule_group_array').removeClass('active')
+		clear_schudule_active();
+		
 		$('.schedule_group_array').eq($(this).index()).addClass('active')
-		$('.schedule_box_array').removeClass('active')
+		if (!is_mobile()) {
 		$('.schedule_box_array').eq($(this).index()).addClass('active')
+		}
+		dep_index = $(this).index()
 		$(this).addClass('active')
+		$('.teach_list').hide(300)
+		$('.schudule_teacher').hide(300)
 		schedule_array = 0
-		$('.schedule_box').removeClass('active')
-		$('.schedule_group_item').removeClass('active');
 	});
-	$('.week_button').click(function(){
-		$('#week_branch').text($(this).text())
-		$('.week_button').removeClass('active')
-		$('.schedule_box').removeClass('active')
-		$('.schedule_group_item').removeClass('active');
-		schedule_array = 0
-		$(this).addClass('active')
+	$(document).mouseup(function (e) {
+
+		var change_button = $('.change_window');
+		if (change_button.has(e.target).length === 0) {
+			change_button.hide(300);
+		}
+
+		var delete_button = $('.delete_window');
+		if (delete_button.has(e.target).length === 0) {
+			delete_button.hide(300);
+		}
+
+		var hic = $('.hic');
+		if (hic.has(e.target).length === 0) {
+			hic.hide(300);
+		}
+	})
+
+	$('.change_button').click(function(){
+		$('.change_window').hide(300)
+		$(this).parent().find('.change_window').show(300)
 	});
+
+	$('.C_show_delete_wind').click(function(){
+		$('.delete_window').hide(300);
+		$(this).parent().find('.delete_window').show(300);
+	});
+
+	$('.C_close_delete_wind').click(function(){
+		$('.delete_window').hide(300);
+	});
+
+	$('.create_button').click(function(){
+		$('.form_create_user').show(300);
+	});
+
+	$('.cancel_button').click(function(){
+		$('.form_create_user').hide(300);
+	});
+
+	
 });
+
+function clear_schudule_active() {
+	$('.nav_button').removeClass('active')
+	$('.schedule_box_array').removeClass('active')
+	$('.schedule_box').removeClass('active')
+	$('.schedule_group_item').removeClass('active')
+	$('.schedule_group_array').removeClass('active')
+}
+
+function is_mobile() {
+	if (document.documentElement.clientWidth <= 768) {
+		return true;
+	}
+	else
+	{
+		return false;
+	}
+}

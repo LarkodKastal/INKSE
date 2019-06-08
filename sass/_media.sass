@@ -14,8 +14,312 @@
 
 /* Small Devices, Tablets */
 @media only screen and (max-width : 768px)
-	/**/
+	body
+		background: #8f22a3
+	.schedule_container
+		width: 100vw
+		height: 80vh
+		top: 20vh
+		bottom: 0
+		left: 0
+		right: 0
+		padding: 0
+		display: none
+		z-index: 20
+		background: #8f22a3
+		text-align: center
+		.schedule_group_array 
+			justify-content: center
+			overflow-y: auto 
+			height: 70vh
+			.schedule_group_item 
+				button
+					color: #fff
+					border: 1px solid #fff
+		.schedule_box_array 
+			position: fixed
+			width: 100vw
+			top: 20vh
+			height: 80vh
+			display: none 
+			.schedule_box 
+				width: 100%
+				height: 100%
+		.schedule_box_array.active
+			display: block 
+		.close_button
+			background: rgba(67,29,86,.5)
+			color: #fff
+			border-radius: 50px
+			width: 80vw
+			padding: 5px 
+			margin: 5px 10vw
+			border: none
+	.responsive_menu
+		position: absolute
+		display: block
+		width: 100vw
+		top: 20vh 
+		height: 70vh
+		z-index: 0
+		text-align: center
+		span
+			font-size: 22px
+			color: #fff
+			padding: 0
+		button
+			background: rgba(67,29,86,.5)
+			color: #fff
+			border-radius: 50px
+			width: 80vw
+			padding: 5px 
+			margin: 5px 10vw
+			border: none
+		.respons_schedule
+			display: -webkit-flex
+			display: -moz-flex
+			display: -ms-flex
+			display: -o-flex
+			display: flex 
+			flex-wrap: wrap
+			width: 90vw
+			margin: 10px 5vw
+			.title
+				width: 100%
+				background: rgba(67,29,86,.9)
+				text-align: center
+				border: #fff solid 1px
+			.respons_item
+				display: -webkit-flex
+				display: -moz-flex
+				display: -ms-flex
+				display: -o-flex
+				display: flex
+				flex-wrap: wrap
+				width: 100vw
+				span
+					font-size: 16px
+					background: rgba(67,29,86,.5)
+					text-align: center
+					border: #fff solid 1px
+				.num
+					width: 20%
+				.name
+					width: 80%
+				.time
+					width: 20%
+				.teacher
+					width: 60%
+				.room
+					width: 20%
+			.respons_notfound
+				width: 100%
+				padding: 50px 0
+				background: rgba(67,29,86,.5) 
+				span
+					width: 100%		
+	.respons_rememb
+		position: fixed
+		display: none 
+		bottom: 0
+		left: 0 
+		z-index: 20
+		height: 10vh
+		width: 100vw
+		.respons_container
+			display: -webkit-flex
+			display: -moz-flex
+			display: -ms-flex
+			display: -o-flex
+			display: flex
+			button
+				height: 100%
+				background: #8f22a3
+				border: 1px solid #fff
+				color: #fff
+				width: 50vw
+				display: -webkit-flex
+				display: -moz-flex
+				display: -ms-flex
+				display: -o-flex
+				display: flex 
+				justify-content: center
+				a
+					color: #fff
+					width: 100%
+					height: 100%
 
+	.find_teacher
+		padding: 0
+		display: none
+		text-align: center
+		width: 100vw
+		top: 25vh
+		left: 0
+		right: 0
+		bottom: 0
+		height: 70vh
+		position: fixed
+		.teach_list
+			background: #8f22a3
+			padding: 50px 0 0
+			top: 0
+			position: absolute
+			height: 74vh
+			display: block
+			.close_button
+				top: 0
+				right: 10vw
+				left: 10vw
+				width: 80vw
+			button
+				padding: 5px 
+				a
+					font-size: 14px
+		.schudule_teacher
+			width: 100vw
+			left: 0
+			top: 26vh
+			background: #8f22a3
+			padding: 50px 10px 0
+			overflow-x: auto
+			.close_button
+				right: 10vw
+				left: 10vw
+				width: 80vw
+			.schudule_teacher_container
+				.schudule_teacher_block
+					width: 90%
+					margin: 10px 5%
+	
+	.schudule_teacher
+		position: fixed
+		top: 20vh
+		left: 0 
+		width: 100vw
+		height: 80vh
+		background: #8f22a3
+		padding: 5px
+		z-index: 30
+		text-align: center
+		overflow-y: auto
+		.close_button
+			background: rgba(67,29,86,.5)
+			color: #fff
+			padding: 5px 50px
+			width: 250px 
+			border: none
+			border-radius: 50px
+			a
+				color: #fff
+		.schudule_teacher_container
+			display: -webkit-flex
+			display: -moz-flex
+			display: -ms-flex
+			display: -o-flex
+			display: flex
+			justify-content: center
+			align-items: center
+			flex-wrap: wrap
+			.schudule_teacher_block
+				display: -webkit-flex
+				display: -moz-flex
+				display: -ms-flex
+				display: -o-flex
+				display: flex
+				flex-wrap: wrap
+				width: 300px
+				margin: 20px 
+				background: rgba($d, 0.7)
+				span
+					color: #fff
+					text-align: center
+					min-height: 30px
+					border: 1px solid rgba($d, 0.7)
+				.group
+					background: rgba($d, 0.7)
+					width: 100%
+				.num
+					width: 20%
+				.name
+					width: 80%
+				.time
+					width: 20%
+				.teacher
+					width: 60%
+				.room
+					width: 20%
+	
+	.interface_container
+		width: 100vw
+		height: 20vh
+		position: fixed
+		top: 0
+		z-index: 3
+		.logo
+			width: 100%
+			height: 100%
+			display: -webkit-flex
+			display: -moz-flex
+			display: -ms-flex
+			display: -o-flex
+			display: flex
+			justify-content: center
+			align-items: flex-start
+			img
+				height: 100%
+	
+	.nav_menu
+		width: 100vw
+		height: 80vh
+		position: fixed
+		bottom: 0
+		left: 0
+		display: none
+		.nav_button
+			width: 80%
+			margin: 5px 10% 
+			border-radius: 0
+			text-align: center
+			padding: 0
+			min-height: 45px
+			border: 2px solid #b5daf1
+		.close_button
+			width: 80%
+			margin: 5px 10% 
+			background: none
+			color: #b5daf1
+			min-height: 45px
+			border: 2px solid #b5daf1
+			box-shadow: 1px 1px 5px #d0e0ea
+	
+	.week_menu
+		width: 100vw
+		height: 80vh
+		position: fixed
+		bottom: 0
+		top: 20vh
+		left: 0
+		right: 0
+		padding: 0
+		display: none
+		flex-wrap: wrap 
+		align-items: flex-start
+		.week_button
+			width: 80%
+			margin: 20px 10%
+			display: -webkit-flex
+			display: -moz-flex
+			display: -ms-flex
+			display: -o-flex
+			display: flex
+			min-height: 50px
+			border-radius: 0
+			text-align: center
+			justify-content: center
+			color: #fff
+			a
+				width: 100%
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px)

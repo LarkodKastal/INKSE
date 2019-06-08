@@ -27,60 +27,73 @@
 	color: #666
 	opacity: 1
 
-body input:focus:required:invalid,
-body textarea:focus:required:invalid
-	color: #666
-body input:required:valid,
-body textarea:required:valid
-	color: #666
+*
+	body input:focus:required:invalid,
+	body textarea:focus:required:invalid
+		color: #666
+	body input:required:valid,
+	body textarea:required:valid
+		color: #666
 
-html, body
-	height: 100%
+	html, body
+		height: 100%
 
-body
-	font-size: 16px
-	min-width: 320px
-	position: relative
-	line-height: 1.65
-	font-family: $default-font
-	overflow-x: hidden
-	background: #000
+	body
+		font-size: 16px
+		min-width: 320px
+		position: relative
+		line-height: 1.65
+		font-family: $default-font
+		overflow-x: hidden
+		background: #000
 
-.img-responsive
-	display: block
-	max-width: 100%
-	height: auto
+	.img-responsive
+		display: block
+		max-width: 100%
+		height: auto
 
-.text-center
-	text-align: center
+	.text-center
+		text-align: center
 
-::selection
-	background-color: $accent
-	color: #fff
+	::selection
+		background-color: $accent
+		color: #fff
 
-body
-	background: #d1c5f5
+	body
+		background: #d1c5f5
 
-button
-	outline: 0
-	outline-offset: 0
+	button
+		outline: 0
+		outline-offset: 0
+
+.flex_container
+	display: -webkit-flex
+	display: -moz-flex
+	display: -ms-flex
+	display: -o-flex
+	display: flex
+
+.flex_jcc
+	justify-content: center
 
 .interface_container
-	width: 20vw
-	height: 20vh
+	width: 15vw
+	height: 30vh
 	position: fixed
 	top: 0
 	left: 0
-	box-shadow: 1px 1px 10px #333
+	box-shadow: none
 	z-index: 10
-	background: #431d56
+	background: #8f22a3
 	.logo
 		width: 100%
+		height: 100%
 		display: block
-		padding: 20px
+		padding: 0px
 		img
-			width: 100%
+			max-width: 100%
 			max-height: 100%
+
 .nav_menu
 	display: -webkit-flex
 	display: -moz-flex
@@ -88,39 +101,45 @@ button
 	display: -o-flex
 	display: flex
 	flex-wrap: wrap
-	justify-content: center
+	justify-content: flex-start
 	align-items: center
 	position: fixed
-	width: 20vw
-	height: 80vh
-	padding: 50px 0
+	width: 15vw
+	height: 70vh
+	padding: 0
 	bottom: 0
 	left: 0
-	z-index: 5
-	box-shadow: 1px 1px 10px #333
-	background: #6d1d94
+	z-index: 20
+	border-bottom: solid 1px #333
+	background: #8f22a3
 	overflow: auto
-
 	.nav_button
-		width: 80%
+		width: 95%
+		padding: 0 0px 0 15px
 		background: none
-		color: #fff
+		overflow: hidden
+		color: #b5daf1
 		min-height: 50px
-		border-radius: 50px
-		border: 2px solid #431d56
-		box-shadow: 1px 1px 5px #431d56
+		border-radius: 0px
+		border: 2px solid #b5daf1
+		border-left: none
+		text-align: left
+		border-radius: 0 50px 50px 0
+		box-shadow: 1px 1px 5px #d0e0ea
 	.nav_button.active
 		border: 2px solid #fff
 		background: rgba(255,255,255,0.1)
 		box-shadow: 1px 1px 5px #fff
+
 .week_menu
 	position: fixed
-	width: 80vw
+	width: 85vw
 	height: 20vh
 	padding: 50px 50px
 	top: 0
 	right: 0
-	background: #6d1d94
+	z-index: 20
+	background: #8f22a3
 	display: -webkit-flex
 	display: -moz-flex
 	display: -ms-flex
@@ -130,21 +149,31 @@ button
 	align-items: center
 	.week_button
 		width: 15%
-		color: #fff
+		color: #b5daf1
 		background: none
-		border: 1px solid #431d56
-		box-shadow: 1px 1px 5px #431d56
+		border: 1px solid #b5daf1
+		box-shadow: 1px 1px 5px #d0e0ea
 		border-radius: 50px
 		font-size: 16px
+		display: -webkit-flex
+		display: -moz-flex
+		display: -ms-flex
+		display: -o-flex
+		display: flex
 		&:hover
 			border: 1px solid #fff
 			box-shadow: 1px 1px 5px #fff
+		a
+			width: 100%
+			text-align: center
+			color: #fff
 	.week_button.active
 		border: 2px solid #fff
 		background: rgba(255,255,255,0.1)
 		box-shadow: 1px 1px 5px #fff
+
 .schedule_container
-	width: 80vw
+	width: 85vw
 	height: 80vh
 	bottom: 0
 	right: 0
@@ -169,16 +198,17 @@ button
 		display: -ms-flex
 		display: -o-flex
 		display: flex
+		justify-content: flex-end
 		#nav_branch
 			width: 80%
 			padding: 0 50px
 			font-size: 20px
-			color: #431d56
+			color: $d
 		#week_branch
 			width: 20%
 			padding: 0 50px
 			font-size: 20px
-			color: #431d56
+			color: $d
 	.schedule_group_array
 		display: none
 		flex-wrap: wrap
@@ -186,9 +216,9 @@ button
 		justify-content: flex-start
 		.schedule_group_item
 			button
-				color: #fff
-				background: #431d56
-				border: none
+				color: #271039
+				background: none
+				border: 1px solid #271039
 				position: relative
 				border-radius: 50px
 				width: 65px
@@ -205,8 +235,8 @@ button
 					background: url('../img/detail.png')
 					background-size: cover
 					background-position: 0 0
-					top: -5px
-					left: -5px
+					top: -6px
+					left: -6px
 					animation: 2s rotare_detail linear infinite
 	.schedule_group_array.active
 		display: -webkit-flex
@@ -225,13 +255,18 @@ button
 			text-align: center
 			display: none
 			padding: 0
-			width: 23%
+			width: 33%
 			font-size: 14px
-			margin: 1%
-			border: 1px solid #431d56
-			box-shadow: 1px 1px 5px #431d56
+			margin: 0.33%
+			border: 1px solid $d
+			box-shadow: 1px 1px 5px $d
+			.schedule_notfound
+				padding-top: 30px
+				height: 100px
+				span
+					font-size: 20px
 			.group
-				background: #431d56
+				background: $d
 				color: #fff
 			.schelude_item
 				display: -webkit-flex
@@ -240,24 +275,24 @@ button
 				display: -o-flex
 				display: flex
 				flex-wrap: wrap
-				border-bottom: 5px solid #431d56
+				border-bottom: 5px solid $d
 				p
 					padding: 0
 					margin: 0
-					border: 1px solid #431d56
+					border: 1px solid $d
 					width: 80%
 				.teacher
 					width: 60%
-					border: 1px solid #431d56
+					border: 1px solid $d
 				.cabinet
 					width: 20%
-					border: 1px solid #431d56
+					border: 1px solid $d
 				.time
 					width: 20%
-					border: 1px solid #431d56
+					border: 1px solid $d
 				.lesson_num
 					width: 20%
-					border: 1px solid #431d56
+					border: 1px solid $d
 		.active
 			display: block
 	.schedule_box_array.active
@@ -266,6 +301,1034 @@ button
 		display: -ms-flex
 		display: -o-flex
 		display: flex
+
+.login_screen
+	width: 100vw
+	height: 100vh
+	display: -webkit-flex
+	display: -moz-flex
+	display: -ms-flex
+	display: -o-flex
+	display: flex
+	justify-content: center
+	align-items: center
+	background: linear-gradient(#926890,#582c58)
+	.login_container
+		width: 320px
+		height: auto
+		display: -webkit-flex
+		display: -moz-flex
+		display: -ms-flex
+		display: -o-flex
+		display: flex
+		justify-content: center
+		align-items: center
+		flex-wrap: wrap
+		.error_list
+			width: 80%
+			padding: 5%
+			background: rgba(255,0,0,0.3)
+			color: #fff
+			margin-top: 20px
+			border-radius: 10px
+			text-align: center
+			p
+				padding: 0
+				margin: 0
+		img
+			border-radius: 50%
+			width: 240px
+			height: 240px
+			box-shadow: 0px 0px 15px rgba(255,255,255,0.5)
+		form
+			width: 100%
+			height: 100%
+			input
+				width: 80%
+				height: 30px
+				outline-offset: 0
+				outline: 0
+				background: none
+				border: 1px solid #fff
+				box-shadow: 1px 1px 5px #fff
+				margin: 10px 10%
+				padding: 5px 5%
+				color: #fff
+				border-radius: 50px
+				&::placeholder
+					color: rgba(255,255,255,0.7)
+			button
+				width: 80%
+				border-radius: 50px
+				height: 30px
+				color: #fff
+				border: #fff solid 1px
+				box-shadow: 1px 1px 5px #fff
+				background: none 
+				margin: 10px 10%
+
+.find_teacher
+	position: fixed
+	width: 100vw
+	height: 100vh
+	padding: 20vh 0 0 15vw
+	top: 0
+	left: 0
+	z-index: 0
+	.show_button
+		position: absolute
+		top: 21vh
+		left: 16vw
+		background: rgba($d, 0.5)
+		color: #fff
+		padding: 5px 15px
+		width: 250px
+		border: none
+		border-radius: 50px
+	.teach_list
+		width: 100%
+		height: 100%
+		background: #d1c5f5
+		padding: 50px 10px
+		display: none
+		button
+			background: rgba($d, 0.7)
+			padding: 10px 20px
+			border: none
+			margin-top: 10px
+			margin-right: 10px
+			a
+				color: #fff
+		.close_button
+			position: absolute
+			top: 20vh
+			left: 16vw
+			background: $d
+			z-index: 15
+			color: #fff
+			padding: 5px 50px
+			width: 250px
+			border: none
+			border-radius: 50px
+	.schudule_teacher
+		position: absolute
+		top: 20vh
+		left: 15vw
+		width: 85vw
+		height: 80vh
+		background: #d1c5f5
+		padding: 50px
+		z-index: 30
+		.close_button
+			position: absolute
+			top: 1vh
+			left: 1vw
+			background: rgba($d, 0.7)
+			z-index: 15
+			color: #fff
+			padding: 5px 50px
+			width: 250px
+			border: none
+			border-radius: 50px
+		.schudule_teacher_container
+			display: -webkit-flex
+			display: -moz-flex
+			display: -ms-flex
+			display: -o-flex
+			display: flex
+			justify-content: center
+			align-items: center
+			flex-wrap: wrap
+			.schudule_teacher_block
+				display: -webkit-flex
+				display: -moz-flex
+				display: -ms-flex
+				display: -o-flex
+				display: flex
+				flex-wrap: wrap
+				width: 30%
+				margin: 1%
+				background: rgba($d, 0.7)
+				span
+					color: #fff
+					text-align: center
+					min-height: 30px
+					border: 1px solid rgba($d, 0.7)
+				.group
+					background: rgba($d, 0.7)
+					width: 100%
+				.num
+					width: 20%
+				.name
+					width: 80%
+				.time
+					width: 20%
+				.teacher
+					width: 60%
+				.room
+					width: 20%
+.respons_rememb
+	display: none
+.responsive_menu
+	display: none
+
+.PAGE_admin_panel
+	width: 100vw
+	height: 100vh
+	background: linear-gradient(90deg , rgba($d, 0.7), rgba($d, 0.5) , rgba($d, 0.7) )
+	.control_dir
+		width: 80vw
+		position: fixed
+		right: 0
+		top: 0
+		height: 100vh
+		display: none
+	.control_container
+		width: 20vw
+		height: 100vh 
+		.control_menu
+			width: 100%
+			height: 100%
+			background: rgba( #fff , 0.3)
+			img
+				width: 80%
+				height: auto
+				margin: 50px 10%
+				border-radius: 50%
+			button
+				width: 80%
+				min-height: 30px
+				margin: 5px 10%
+				border: 1px solid $d
+				font-size: 16px
+				display: -webkit-flex
+				display: -moz-flex
+				display: -ms-flex
+				display: -o-flex
+				display: flex
+				border-radius: 50px
+				background: none
+				&:hover
+					background: rgba($d, 0.2)
+				a
+					width: 100%
+					color: $d
+			.active
+				background: $d
+				&:hover
+					background: rgba($d, 0.9)
+				a
+					color: #fff
+	.users_container
+		.users_menu
+			height: 80%
+			width: 100%
+			margin: 10% 0px
+			display: -webkit-flex
+			display: -moz-flex
+			display: -ms-flex
+			display: -o-flex
+			display: flex
+			align-items: flex-start
+			overflow: auto
+			padding: 50px 0 50px 50px
+			.create_window
+				position: absolute
+				top: 10%
+				min-width: 250px
+				left: 55px
+				z-index: 10
+				.form_create_user
+					display: none
+					form
+						background: rgba($d, 0.7)
+						display: -webkit-flex
+						display: -moz-flex
+						display: -ms-flex
+						display: -o-flex
+						display: flex
+						justify-content: center
+						align-items: center
+						z-index: 10
+						text-align: center
+						padding: 5px
+						margin-top: 40px
+						input
+							background: none
+							color: #fff	
+							border: none
+							outline: 0
+							border-bottom: 1px solid #fff
+							padding: 0 10px 
+							margin-right: 20px
+							&::placeholder
+								color: #ccc
+						select
+							background: none
+							outline: 0
+							color: #fff	
+							border: none
+							border-bottom: 1px solid #fff
+							margin-right: 20px
+							option
+								color: #000
+						button
+							background: none
+							border: none
+							color: #fff
+							padding: 0
+							margin-right: 20px
+						.cancel_button
+							color: #fff
+							padding: 0
+							cursor: pointer
+				.create_button
+					border: none
+					height: 40px
+					position: absolute
+					padding: 0 20px
+					color: #f2f2f2
+					background: rgba($d, 0.5)
+			ul
+				margin: 0px 5px
+				padding: 0
+				li
+					padding: 5px 20px
+					margin-bottom: 5px
+					display: block
+					height: 40px
+					position: relative
+					color: #f2f2f2
+					background: rgba($d, 0.3)
+					button
+						background: none
+						border: none
+						height: 60%
+					.C_show_delete_wind
+						background: none
+						border: none
+						height: 60%
+						cursor: pointer
+					img
+						height: 100%
+					.change_window
+						position: absolute
+						top: 0
+						z-index: 5
+						left: 0
+						padding: 10px 0
+						display: none
+						text-align: center
+						background: rgba($d, 0.8)
+						input
+							margin: 5px
+							color: #fff
+							background: rgba($d, 0.4)
+							border: none
+							border-bottom: 1px solid #fff
+						select
+							margin: 5px
+							width: 95%
+							background: rgba($d, 0.4)
+							&::hover
+								background: #000
+							option
+								background: none
+				.delete_window
+					position: absolute
+					top: 0
+					z-index: 5
+					left: 0
+					width: 110px
+					padding: 10px 0
+					display: none
+					text-align: center
+					background: rgba($d, 0.8)
+					input
+						margin: 5px
+						color: #fff
+						background: rgba($d, 0.4)
+						border: none
+						border-bottom: 1px solid #fff
+					button
+						width: 50px
+						&:hover
+							border-bottom: 1px solid #fff
+					.C_close_delete_wind
+						display: block
+						width: 50px
+						cursor: pointer
+						&:hover
+							border-bottom: 1px solid #fff
+				li:nth-child(2n)
+					background: rgba($d, 0.6)
+				.bgn
+					background: none
+
+			.tool_container
+				margin-left: 5px
+				.tool_list
+					display: -webkit-flex
+					display: -moz-flex
+					display: -ms-flex
+					display: -o-flex
+					display: flex
+					ul
+						margin: 0
+						&:first-child
+							margin: 0 10px 0 0
+	.schudule_container
+		.schudule_menu
+			height: 100%
+			width: 100%
+			margin: 0
+			display: -webkit-flex
+			display: -moz-flex
+			display: -ms-flex
+			display: -o-flex
+			display: flex
+			align-items: flex-start
+			overflow: auto
+			padding: 0
+			.group_list
+				height: 100%
+				width: 15%
+				padding: 0
+				margin: 0
+				overflow-y: auto
+				overflow-x: hidden
+				background: rgba($d, 0.5)
+				li
+					width: 100%
+					padding: 15px 0
+					display: block
+					background: none
+					font-size: 18px
+					border-bottom: 1px solid #fff
+					color: #fff
+					text-align: center
+					&:first-child
+						background: rgba($d, 0.5)
+					a
+						color: #fff
+			.week_list
+				background: rgba($d, 0.5)
+				padding: 0
+				margin: 0
+				display: -webkit-flex
+				display: -moz-flex
+				display: -ms-flex
+				display: -o-flex
+				display: flex
+				width: 60%
+				justify-content: space-between
+				li
+					display: -webkit-flex
+					display: -moz-flex
+					display: -ms-flex
+					display: -o-flex
+					display: flex
+					font-size: 18px
+					color: #fff
+					width: 16.66%
+					text-align: center
+					border-left: 1px solid #fff
+					a
+						width: 100%
+						padding: 15px 15px
+						color: #fff
+			.schudule_setting
+				position: absolute
+				top: 60px
+				left: 15%
+				width: 60%
+				display: -webkit-flex
+				display: -moz-flex
+				display: -ms-flex
+				display: -o-flex
+				display: flex
+				flex-wrap: wrap
+				justify-content: flex-start
+				text-align: center
+				padding: 10px
+				background: rgba($d, 0.3)
+				.info_box
+					color: #fff
+					display: -webkit-flex
+					display: -moz-flex
+					display: -ms-flex
+					display: -o-flex
+					display: flex
+					justify-content: space-between
+					width: 100%
+				.schudule_item
+					background: rgb(96, 62, 118)
+					padding: 10px
+					width: 48%
+					min-width: 300px
+					display: -webkit-flex
+					display: -moz-flex
+					display: -ms-flex
+					display: -o-flex
+					display: flex
+					justify-content: center
+					flex-wrap: wrap
+					text-align: center
+					position: relative
+					font-size: 14px
+					margin: 10px 1%
+					.delete_wind
+						position: absolute
+						width: 100%
+						height: 100%
+						background: $d
+						top: 0
+						left: 0
+						display: none
+						form
+							color: #fff
+							padding: 10px
+							display: -webkit-flex
+							display: -moz-flex
+							display: -ms-flex
+							display: -o-flex
+							display: flex
+							justify-content: center
+							align-items: center
+							flex-wrap: wrap
+							button
+								background: none
+								color: #fff
+								border: none
+								height: 30px
+								width: 100px
+							label
+							 width: 100%
+							.close_button
+								cursor: pointer
+								width: 100px
+								color: #fff
+								height: 30px
+					.change_wind
+						position: absolute
+						top: 0
+						left: 0
+						width: 100%
+						height: 100%
+						background: rgba($d, 1)
+						display: none
+						form
+							display: -webkit-flex
+							display: -moz-flex
+							display: -ms-flex
+							display: -o-flex
+							display: flex
+							justify-content: flex-end
+							align-items: center
+							flex-wrap: wrap
+							padding: 10px
+							input,textarea
+								height: 30px
+					.choice_wind
+						width: 100%
+						height: 100%
+						position: absolute
+						top: 0
+						left: 0
+						opacity: 0
+						transition: 0.3s
+						padding: 0 30px
+						display: -webkit-flex
+						display: -moz-flex
+						display: -ms-flex
+						display: -o-flex
+						display: flex
+						justify-content: space-between
+						align-items: center
+						background: rgba($d, 0.8)
+						button
+							width: 50px
+							height: 50px
+							background: none
+							border: none
+							img
+								height: 100%
+					.num
+						width: 20%
+					.name
+						width: 80%
+					.time
+						width: 20%
+					.teacher
+						width: 60%
+					.room
+						width: 20%
+					span
+						border: 1px solid #fff
+						padding: 3px
+						color: #fff
+					&:hover
+						.choice_wind
+							opacity: 1
+				.add_schudule_button
+					width: 100%
+					text-align: center
+					button
+						border: 2px solid rgba(#fff, 0.8)
+						border-radius: 50px
+						background: none
+						color: rgba(#fff, 1)
+						width: 50px
+						height: 50px
+						font-size: 32px
+						line-height: 0
+			.schudule_option
+				width: 25%
+				height: 100%
+				background: rgba($d, 0.5)
+				.create_menu
+					width: 100%
+					padding: 10px
+					height: 100%
+					margin: 0
+					text-align: center
+					li
+						width: 100%
+						background: rgba($d, 0.5)
+						display: block
+						padding: 10px 0
+						margin-top: 10px
+						.create_tamplate_wind
+							width: 80vw
+							position: fixed
+							height: 100vh
+							top: 0
+							display: none
+							padding: 20px
+							left: 20vw
+							background: $d
+							h1
+								font-size: 18px
+								color: #fff	
+							form
+								width: 100%
+								height: 300px
+								display: -webkit-flex
+								display: -moz-flex
+								display: -ms-flex
+								display: -o-flex
+								display: flex
+								justify-content: space-between
+								align-items: flex-start
+								flex-wrap: wrap
+								input
+									border: 1px solid #fff
+									display: block
+									margin: 0
+									max-width: 100%
+									overflow: hidden
+									height: 30px
+								.num
+									height: 100px
+									width: 30%
+								.name
+									height: 100px
+									width: 70%
+									padding: 10px
+									&::placeholder
+										color: #fff
+								.time
+									width: 20%
+								.teacher
+									width: 60%
+								.short_desc
+									height: 50px
+									width: 50%
+									padding: 10px
+									&::placeholder
+										color: #fff
+								.room
+									width: 20%
+								.group
+									height: 50px
+									width: 20%
+								.close_button
+									border: 1px solid #fff
+									margin: 10px 0
+									cursor: pointer
+									padding: 3px 10px
+								select
+									width: 30%
+									height: 50px
+									padding: 0 10px
+
+						span
+							width: 100%
+							height: 100%
+							border: none
+							background: none
+							color: #fff
+						input,button
+							margin: 10px 0
+							background: none
+							color: #fff
+							max-width: 100%
+							overflow: hidden
+							border: 1px solid #fff
+							padding: 3px 10px
+							text-align: center
+							&::placeholder
+								color: #fff
+						textarea
+							width: 90%
+							background: none
+							color: #fff
+							height: 100px
+						select
+							text-align: center
+							background: none
+							color: #fff
+							option
+								background: $d
+			.tamplate_setting
+				width: 100%
+				height: 100%
+				display: none
+				position: absolute
+				.tamplate_list
+					width: 100%
+					height: 100%
+					overflow: auto
+					background: $d
+					.create_form_container
+						display: -webkit-flex
+						display: -moz-flex
+						display: -ms-flex
+						display: -o-flex
+						display: flex
+						justify-content: center
+						width: 100%
+						border: none
+						form
+							display: -webkit-flex
+							display: -moz-flex
+							display: -ms-flex
+							display: -o-flex
+							display: flex
+							flex-wrap: wrap
+							justify-content: flex-end
+							width: 90%
+							margin: 0 5%
+							*
+								background: none
+								color: #fff
+								text-align: center
+								border: 1px solid #fff
+								&::placeholder
+									color: #fff
+									font-size: 14px
+							.num
+								width: 20%
+							.name
+								width: 80%
+							.time
+								width: 20%
+							.teacher
+								width: 60%
+							.room
+								width: 20%
+							button
+								margin-top: 10px
+								color: $d
+								height: 30px
+								background: #fff
+							.close_button
+								width: 80px
+								background: #fff
+								height: 30px
+								margin: 10px
+								cursor: pointer
+								display: -webkit-flex
+								display: -moz-flex
+								display: -ms-flex
+								display: -o-flex
+								display: flex
+								justify-content: center
+								align-items: center
+								span
+									color: $d
+					h1
+						color: #fff
+						text-align: center
+						font-size: 18px
+						border-bottom: 1px solid #fff
+						padding-bottom: 10px			
+					div
+						color: #fff
+						width: 100%
+						text-align: center
+						padding: 15px 0
+						border-bottom: 1px solid #fff
+						border-left: 1px solid #fff
+						border-right: 1px solid #fff
+						display: block
+						background: rgba($d, 0.5)
+					.tamplate_form
+						button
+							display: none
+							background: none
+							border: none
+							text-align: center
+							width: 100%
+						.submit
+							display: block
+					.tamplate_item
+						width: 18%
+						margin: 1%
+						border: none
+						font-size: 14px
+						float: left
+						border-bottom: 1px solid #fff
+						overflow: hidden
+						padding: 10px
+						transition: 1s
+						cursor: pointer
+						background: rgba($d, 0.5)
+	.group_dep_container
+		overflow-y: auto
+		.group_dep_list
+			display: -webkit-flex
+			display: -moz-flex
+			display: -ms-flex
+			display: -o-flex
+			display: flex
+			justify-content: space-between
+			flex-wrap: wrap
+			align-items: center
+			padding: 20px
+			ul
+				min-width: 25%
+				li
+					color: #fff
+					padding: 5px 10px
+					display: block
+					display: -webkit-flex
+					display: -moz-flex
+					display: -ms-flex
+					display: -o-flex
+					display: flex
+					position: relative
+					justify-content: space-between
+					background: rgba($d, 0.3)
+					margin-left: 20px
+					button
+						background: none
+						border: none
+						img
+							height: 10px
+					form
+						position: absolute
+						top: 0
+						left: 0
+						display: none
+						height: 100%
+						width: 100%
+						color: #fff
+						padding: 5px
+						background: $d
+						button,span
+							cursor: pointer
+							background: none
+							border: none
+							&:hover
+								border-bottom: 1px solid #fff
+				.group_title
+					margin-left: 0
+					background: rgba($d, 0.5)
+	.tamplate_container
+		overflow-y: auto
+		.tamplate_list
+			display: -webkit-flex
+			display: -moz-flex
+			display: -ms-flex
+			display: -o-flex
+			display: flex
+			justify-content: center
+			flex-wrap: wrap
+			padding: 20px
+			.tamplate_block
+				width: 400px
+				display: -webkit-flex
+				display: -moz-flex
+				display: -ms-flex
+				display: -o-flex
+				display: flex
+				flex-wrap: wrap
+				padding: 10px
+				margin: 20px
+				position: relative
+				background: rgba($d, 0.5)
+				.change_wind
+					position: absolute
+					width: 100%
+					height: 100%
+					top: 0
+					left: 0
+					transition: 0.3s
+					opacity: 0
+					background: $d
+					display: -webkit-flex
+					display: -moz-flex
+					display: -ms-flex
+					display: -o-flex
+					display: flex
+					justify-content: space-between
+					align-items: center
+					padding: 10px 50px
+					button
+						background: none
+						border: none
+						img
+							height: 50px
+				.change_tamplate_form
+					position: absolute
+					top: 0
+					left: 0
+					padding: 10px
+					background: $d
+					display: none
+					width: 100%
+					min-height: 100%
+					z-index: 5
+					form
+						display: -webkit-flex
+						display: -moz-flex
+						display: -ms-flex
+						display: -o-flex
+						display: flex
+						justify-content: flex-end
+						flex-wrap: wrap
+						textarea
+							background: none
+							color: #fff
+							padding: 10px
+						select
+							width: 60%
+							color: #fff
+							background: $d
+							option
+								background: $d
+								color: #fff
+						button
+							margin-top: 10px
+							background: none
+							color: #fff
+						input
+							color: #fff
+							text-align: center
+							background: none
+							border: #fff solid 1px
+				.delete_tamplate_form
+					position: absolute
+					top: 0
+					left: 0
+					width: 100%
+					height: 100%
+					background: $d
+					color: #fff
+					display: none
+					form
+						width: 100%
+						height: 100%
+						display: -webkit-flex
+						display: -moz-flex
+						display: -ms-flex
+						display: -o-flex
+						display: flex
+						flex-wrap: wrap
+						align-items: center
+						justify-content: center
+						label
+							width: 100%
+							text-align: center
+						button,.close_button
+							background: none
+							border: none
+							width: 30px
+							height: 30px
+							margin: 5px 30px
+							&:hover
+								border-bottom: 1px solid #fff
+				span
+					color: #fff
+					padding: 2px
+					text-align: center
+					border: 1px solid #fff
+				.num
+					width: 20%
+				.name
+					width: 80%
+				.time
+					width: 20%
+				.teacher
+					width: 60%
+				.room
+					width: 20%
+				.group
+					width: 40%
+				.department
+					width: 60%
+				.short_desc
+					width: 100%
+				&:hover
+					.change_wind
+						opacity: 0.8
+
+	.success_list
+		background: #b5e6b9
+		top: 0
+		left: 0
+		opacity: 1
+		padding: 5px 20px
+		z-index: 100
+		display: block
+		position: fixed
+		p
+			text-align: center
+			margin: 0
+			padding: 0
+			height: 30px
+	.error_list
+		background: #e6b5b5
+		width: 100%
+		top: 0
+		left: 0
+		opacity: 1
+		z-index: 100
+		display: block
+		position: fixed
+		p
+			text-align: center
+			margin: 0
+			padding: 0
+			height: 30px
+
+	.active
+		display: block
+
+@keyframes error_list_hide
+	0%
+		opacity: 1
+		display: block
+	50%
+		opacity: 1
+	80%
+		opacity: 0
+		display: block
+	100%
+		opacity: 0
+		display: none
+
 @keyframes rotare_detail
 	0%
 		transform: rotate(0deg)
