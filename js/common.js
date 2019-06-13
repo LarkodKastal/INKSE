@@ -12,18 +12,18 @@ $(function() {
 		console.log(schedule_array)
 		if($(this).hasClass('active'))
 		{
-			if(schedule_array>=4)
+			if(schedule_array>=1)
 			{
-				schedule_array = 4
+				schedule_array = 1
 			}
 			schedule_array--
 			$(this).removeClass('active');
 			$('.schedule_box_array.active .schedule_box').eq(parseInt($(this).index())).removeClass('active')
 		}
 		else
-		{	if(schedule_array>=4)
+		{	if(schedule_array>=1)
 			{
-				schedule_array = 4
+				schedule_array = 1
 				$('.schedule_group_item.active').eq(0).removeClass('active');
 				$('.schedule_box.active').eq(0).removeClass('active');
 			}

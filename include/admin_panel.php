@@ -79,6 +79,9 @@ require('header.php');
 			<?php if (is_admin() or is_manager()): ?>
 			<button class="control_buttons"><a href="<?php echo($this_url.'?screen=3');?>">Шаблоны</a></button>
 			<?php endif ?>
+			<?php if (is_admin()): ?>
+			<button class="control_buttons"><a href="<?php echo($this_url.'?screen=4');?>">Парсинг</a></button>
+			<?php endif ?>
 		</div>
 	</div>
 	
@@ -620,7 +623,41 @@ require('header.php');
 		</div>
 	</div>
 	<?php endif ?>
-
+	
+	<?php if (is_admin()): ?>
+	<?php 
+	$link_list = file_get_contents('http://www.nkse.ru/raspisanie.html');
+	$link_list = substr($link_list, strpos($link_list,'<td colspan="2" class="contentdescription" valign="top">
+'));
+	$link_list = substr($link_list, 0, strpos($link_list,'<p style="text-align: center;"><strong><span style="font-size: 14pt;">Заочное обучение'));
+	$link_list = str_replace('<a href="', '<a href="'.$this_url.'?link=', $link_list);
+	$link_list = str_replace('<td style="width: 200px;', '<button', $link_list);
+	$link_list = str_replace('</td>', '</button>', $link_list);
+	$link_list = str_replace('<table', '<div class="pars_list_block" ', $link_list);
+	$link_list = str_replace('</tbody>', '</div>', $link_list);
+	$link_list = str_replace('<p style="text-align: center;">', '<div class="pars_list_title">', $link_list);
+	$link_list = str_replace('</p>', '</div>', $link_list);
+	$link_list = str_replace('height: 26px;', '', $link_list);
+	$link_list = str_replace('margin-left: auto;', '', $link_list);
+	$link_list = str_replace('margin-right: auto;', '', $link_list);
+	$link_list = str_replace('<strong>', '', $link_list);
+	$link_list = str_replace('</strong>', '', $link_list);
+		  ?>
+	<div class="parsing_container control_dir">
+		<div class="parsing_list">
+			<?php echo $link_list;?>
+			<?php if (isset($_GET['link'])): ?>
+				<?php $link = 'http://www.nkse.ru' . $_GET['link']; ?>
+				<div class="pars_list_title"><h1> Результаты парсинга </h1></div>
+				<div class="pars_list_title"><p> Адрес парсинга: <?php echo('http://www.nkse.ru' . $_GET['link']);?></p></div>
+				<div class="pars_list_title write_title"><a class="write_button" href="<?php echo($this_url . '?link=' . $_GET['link'] . '&write_to_DB=write&success=Результаты парсинга успешно записанны в базу' );?>">Записать в базу данных</a></div>
+				<div class="parsing_result">
+					<?php include 'parcer.php';?>
+				</div>
+			<?php endif ?>
+		</div>
+	</div>
+	<?php endif ?>
 </div>
 
 <script src="../js/scripts.min.js"></script>

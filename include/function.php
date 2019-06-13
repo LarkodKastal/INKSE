@@ -293,6 +293,7 @@ function get_teacher_date($param='')
 		return mysqli_num_rows($mysql_teach_mysql);
 	}
 }
+
 function get_week_day()
 {
 	if (date('l')=='Monday') { return 'Пн'; }
@@ -301,6 +302,26 @@ function get_week_day()
 	if (date('l')=='Thursday') { return 'Чт'; }
 	if (date('l')=='Friday') { return 'Пт'; }
 	if (date('l')=='Saturday') { return 'Сб'; }
+}
+
+function short_convert($value='')
+{
+	if ($value == 'Понедельник') { return 'Пн'; }
+	if ($value == 'Вторник') { return 'Вт'; }
+	if ($value == 'Среда') { return 'Ср'; }
+	if ($value == 'Четверг') { return 'Чт'; }
+	if ($value == 'Пятница') { return 'Пт'; }
+	if ($value == 'Суббота') { return 'Сб'; }
+}
+
+function parse($file, $begin, $end)
+{
+	$str = strpos( $file, $begin );
+	if ($str === false) {
+		return false;
+	}
+	$output = substr($file, $str);
+	return strip_tags(substr($output, 0, strpos($output, $end)));
 }
 
 ?>

@@ -16,7 +16,7 @@ if (is_admin() or is_manager()) {
 		$group 		= $_GET['group'];
 		$week_day	= $_GET['week_day'];
 
-		$teacher = str_replace(array(' ','	'),'.', $teacher);
+		$teacher = trim($teacher);
 
 		$query 		= mysqli_query($connect,"INSERT INTO `schedule_list`(`Num`, `Name`, `Time`, `TeacherName`, `NumRoom`, `GroupName`, `DayWeek`) VALUES ('$num','$name','$time','$teacher','$room','$group','$week_day')");
 

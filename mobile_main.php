@@ -52,14 +52,16 @@ require 'include/header.php';
 				<span class="title"><?php echo($group_name);?></span>
 				<?php for ($l=0; $l < $sch_list_count; $l++) { 
 					?>
-					<div class="respons_item">
-						<span class="num"><?php echo($sch_list_item[$l]['Num']);?></span>
-						<span class="name"><?php echo($sch_list_item[$l]['Name']);?></span>
+					<div class="respons_item <?php if ($sch_num != $sch_list_item[$l]['Num']) { echo " border";}?>" >
+						<?php if ($sch_num != $sch_list_item[$l]['Num']): ?>
+							<span class="num"><?php echo($sch_list_item[$l]['Num']);?></span>
+							<span class="name"><?php echo($sch_list_item[$l]['Name']);?></span>
+						<?php endif ?>
 						<span class="time"><?php echo($sch_list_item[$l]['Time']);?></span>
 						<span class="teacher"><?php echo($sch_list_item[$l]['TeacherName']);?></span>
 						<span class="room"><?php echo($sch_list_item[$l]['NumRoom']);?></span>
 					</div>
-					<?php
+					<?php $sch_num = $sch_list_item[$l]['Num'];
 				}?>
 				<?php if ($sch_list_count == 0): ?>
 					<div class="respons_notfound">
@@ -110,7 +112,9 @@ require 'include/header.php';
 			<?php 
 				$teach_array = array($schudule_list[0]['TeacherName']);
 				for ($i=0; $i < $schudule_count; $i++) {
-
+					if ($schudule_list[$i]['TeacherName'] == 'Не указан') {
+						continue;
+					}
 					if (!array_key_exists($schudule_list[$i]['TeacherName'], $teach_array)) {
 						$teach_array[] .= $schudule_list[$i]['TeacherName'];
 					}
@@ -134,7 +138,7 @@ require 'include/header.php';
 			<div class="schudule_teacher_container">
 			<?
 			for ($i=0; $i < $tch_sch_count; $i++) { 
-				?>
+				if ($tch_num != $tch_sch_list[$i]['Num']): ?>
 				<div class="schudule_teacher_block">
 					<span class="group"><?php echo($tch_sch_list[$i]['GroupName']);?></span>
 					<span class="num"><?php echo($tch_sch_list[$i]['Num']);?></span>
@@ -143,7 +147,8 @@ require 'include/header.php';
 					<span class="teacher"><?php echo($tch_sch_list[$i]['TeacherName']);?></span>
 					<span class="room"><?php echo($tch_sch_list[$i]['NumRoom']);?></span>
 				</div>
-				<?php
+				<?php endif ?>
+				<?php $tch_num = $tch_sch_list[$i]['Num'];
 			}
 			?>
 			</div>
@@ -201,16 +206,22 @@ require 'include/header.php';
 								if ($schudule_list[$k]['GroupName'] == $group_list[$j]['NameGroup']) {
 									$schudule_AI++;
 									?>
-									<div class="schelude_item">
-									<span class="lesson_num"><?php echo($schudule_list[$k]['Num']);?></span>
-									<p class="lesson_name"><?php echo($schudule_list[$k]['Name']);?></p>
+									<div class="schelude_item <?php if ($schudule_num != $schudule_list[$k]['Num']){ 	echo " border"; }?>">
+									<?php if ($schudule_num != $schudule_list[$k]['Num']): ?>
+										<span class="lesson_num"><?php echo($schudule_list[$k]['Num']);?></span>
+										<p class="lesson_name"><?php echo($schudule_list[$k]['Name']);?></p>
+									<?php endif ?>
+
 									<span class="time"><?php echo($schudule_list[$k]['Time']);?></span>
 									
 									<span class="teacher"><?php echo($schudule_list[$k]['TeacherName']);?></span>
-									<span class="cabinet">B<?php echo($schudule_list[$k]['NumRoom']);?></span>
+									<span class="cabinet"><?php echo($schudule_list[$k]['NumRoom']);?></span>
 									</div>
 									<?php
+
+									$schudule_num = $schudule_list[$k]['Num'];
 								}
+
 
 							}
 							if ($schudule_AI==0) {

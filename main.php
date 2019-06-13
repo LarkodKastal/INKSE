@@ -82,7 +82,9 @@ require 'include/header.php';
 			<?php 
 				$teach_array = array($schudule_list[0]['TeacherName']);
 				for ($i=0; $i < $schudule_count; $i++) {
-
+					if ($schudule_list[$i]['TeacherName'] == 'Не указан') {
+						continue;
+					}
 					if (!array_key_exists($schudule_list[$i]['TeacherName'], $teach_array)) {
 						$teach_array[] .= $schudule_list[$i]['TeacherName'];
 					}
@@ -105,6 +107,7 @@ require 'include/header.php';
 			<?
 			for ($i=0; $i < $tch_sch_count; $i++) { 
 				?>
+				<?php if ($tch_num != $tch_sch_list[$i]['Num']): ?>
 				<div class="schudule_teacher_block">
 					<span class="group"><?php echo($tch_sch_list[$i]['GroupName']);?></span>
 					<span class="num"><?php echo($tch_sch_list[$i]['Num']);?></span>
@@ -113,7 +116,8 @@ require 'include/header.php';
 					<span class="teacher"><?php echo($tch_sch_list[$i]['TeacherName']);?></span>
 					<span class="room"><?php echo($tch_sch_list[$i]['NumRoom']);?></span>
 				</div>
-				<?php
+				<?php endif ?>
+				<?php $tch_num = $tch_sch_list[$i]['Num'];
 			}
 			?>
 			</div>
@@ -158,19 +162,25 @@ require 'include/header.php';
 						<div class="schedule_list">
 							<?php
 							$schudule_AI = 0;
+							$schudule_num = 0;
 							for ($k=0; $k < $schudule_count; $k++) { 
 								if ($schudule_list[$k]['GroupName'] == $group_list[$j]['NameGroup']) {
 									$schudule_AI++;
 									?>
-									<div class="schelude_item">
-									<span class="lesson_num"><?php echo($schudule_list[$k]['Num']);?></span>
-									<p class="lesson_name"><?php echo($schudule_list[$k]['Name']);?></p>
+									<div class="schelude_item <?php if ($schudule_num != $schudule_list[$k]['Num']){ 	echo " border"; }?>">
+									<?php if ($schudule_num != $schudule_list[$k]['Num']): ?>
+										<span class="lesson_num"><?php echo($schudule_list[$k]['Num']);?></span>
+										<p class="lesson_name"><?php echo($schudule_list[$k]['Name']);?></p>
+									<?php endif ?>
+
 									<span class="time"><?php echo($schudule_list[$k]['Time']);?></span>
 									
 									<span class="teacher"><?php echo($schudule_list[$k]['TeacherName']);?></span>
-									<span class="cabinet">B<?php echo($schudule_list[$k]['NumRoom']);?></span>
+									<span class="cabinet"><?php echo($schudule_list[$k]['NumRoom']);?></span>
 									</div>
 									<?php
+
+									$schudule_num = $schudule_list[$k]['Num'];
 								}
 
 							}

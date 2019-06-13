@@ -214,6 +214,7 @@
 		flex-wrap: wrap
 		margin-top: 20px
 		justify-content: flex-start
+		width: 50%
 		.schedule_group_item
 			button
 				color: #271039
@@ -245,8 +246,9 @@
 		display: -o-flex
 		display: flex
 	.schedule_box_array
-		height: 50%
-		width: 100%
+		height: 100%
+		width: 50%
+		margin-top: 30px
 		display: none
 		justify-content: flex-start
 		align-items: flex-start
@@ -255,8 +257,8 @@
 			text-align: center
 			display: none
 			padding: 0
-			width: 33%
-			font-size: 14px
+			width: 100%
+			font-size: 16px
 			margin: 0.33%
 			border: 1px solid $d
 			box-shadow: 1px 1px 5px $d
@@ -275,7 +277,6 @@
 				display: -o-flex
 				display: flex
 				flex-wrap: wrap
-				border-bottom: 5px solid $d
 				p
 					padding: 0
 					margin: 0
@@ -293,6 +294,8 @@
 				.lesson_num
 					width: 20%
 					border: 1px solid $d
+			.border
+				border-top: 10px solid $d
 		.active
 			display: block
 	.schedule_box_array.active
@@ -1283,7 +1286,91 @@
 				&:hover
 					.change_wind
 						opacity: 0.8
-
+	.parsing_container
+		padding: 20px
+		overflow-x: auto
+		.parsing_list
+			display: -webkit-flex
+			display: -moz-flex
+			display: -ms-flex
+			display: -o-flex
+			display: flex
+			width: 100%
+			height: 100%
+			flex-wrap: wrap
+			align-content: flex-start
+			align-items: flex-start
+			.pars_list_title
+				width: 100%
+			.pars_list_block
+				padding-bottom: 10px
+				button
+					background: rgba($d, 0.7)
+					border: none
+					padding: 5px 20px
+					margin-right: 10px
+					a
+						color: #fff
+						font-weight: 100
+			p
+				width: 100%
+				text-align: center
+			h1
+				text-align: center
+				margin: 0
+				padding: 0
+				padding-top: 50px
+			.write_title
+				display: -webkit-flex
+				display: -moz-flex
+				display: -ms-flex
+				display: -o-flex
+				display: flex
+				justify-content: center
+				.write_button
+					background: rgba($d, 0.7)
+					padding: 5px 20px
+					color: #fff
+					border-radius: 50px
+					cursor: pointer
+			.parsing_result
+				display: -webkit-flex
+				display: -moz-flex
+				display: -ms-flex
+				display: -o-flex
+				display: flex
+				justify-content: center
+				flex-wrap: wrap
+				align-items: flex-start
+				align-content: flex-start
+				.parsing_result_block
+					width: 300px
+					display: -webkit-flex
+					display: -moz-flex
+					display: -ms-flex
+					display: -o-flex
+					display: flex
+					flex-wrap: wrap
+					margin: 20px
+					background: rgba($d, 0.5)
+					span
+						border: 2px solid $d
+						text-align: center
+						color: #fff
+					.num
+						width: 20%
+					.name
+						width: 80%
+					.time
+						width: 20%
+					.teacher
+						width: 60%
+					.room
+						width: 20%
+					.group
+						width: 50%
+					.week
+						width: 50%
 	.success_list
 		background: #b5e6b9
 		top: 0
