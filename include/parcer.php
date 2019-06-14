@@ -120,6 +120,7 @@ foreach ($tn_array as $Mkey => $Mvalue) {
 		$tn_AI++;
 		if ($tn_AI%2) {
 			$teacher_array[count($teacher_array)] = $value;
+			
 		}
 		else
 		{
@@ -140,7 +141,7 @@ function devors($list=array(),$count,$num)
 		$fun_array[0] .= $value . '-!-';
 		$tch_AI++;
 		if ($tch_count<=$num) {
-			$border = 12;
+			$border = $count%14;
 		}
 		//echo($border . ' - ' . $key . '<br />');
 		if ($tch_AI >= $border) {
@@ -180,7 +181,6 @@ function devors($list=array(),$count,$num)
 $teacher_list = devors($teacher_array,count($group_array),count($num_array));
 $numroom_list = devors($numroom_array,count($group_array),count($num_array));
 
-
 foreach ($teacher_list as $key => $value) { $teacher_list[$key] = explode('-*-', $value); }
 foreach ($numroom_list as $key => $value) { $numroom_list[$key] = explode('-*-', $value); }
 
@@ -203,6 +203,20 @@ foreach ($sch_array as $Mkey => $Mvalue) {
 			if ($num == 6) {$time = '16:20';}
 			$sch_array[$Mkey][0] = $sch_array[$Mkey][0][1];
 			continue;
+		}
+		for ($i=8; $i < 18; $i++) { 
+			for ($j=0; $j < 6; $j++) { 
+				if (strpos($name,$i . '-' . $j)) {
+					$time = $i . ':' . ($j*10);
+					if ($i<10) {
+						$name = str_replace('0'.$i.'-'.$j.'0', '', $name);
+					}
+					else
+					{
+						$name = str_replace($i.'-'.$j.'0', '', $name);
+					}
+				}
+			}
 		}
 		if ($key == count($sch_array[$Mkey])-1) {
 			continue;
@@ -233,6 +247,7 @@ foreach ($sch_array as $Mkey => $Mvalue) {
 		}
 	$sch_AJ++;
 }
+
 
 foreach ($schudule_list as $key => $value) {
 	echo('<div class="parsing_result_block">');

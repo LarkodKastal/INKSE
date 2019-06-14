@@ -1,7 +1,3 @@
-
-
-
-
 var date = new Date();
 $('#week_branch').text($('.week_button.active').text())
 var dep_index = 0
@@ -99,7 +95,38 @@ $(function() {
 		$('.form_create_user').hide(300);
 	});
 
-	
+	if($('.schedule_block').innerHeight()>450)
+	{
+		$('.schedule_push').show(300)
+	}
+
+	var schedule_bottom = 0
+	$('.schedule_up').click(function(){
+		if (schedule_bottom-100 >= 0) {
+			$('.schedule_scroll').css('bottom',schedule_bottom-100)
+			schedule_bottom -=100
+		}
+	});
+
+	$('.schedule_down').click(function(){
+		if (schedule_bottom+50 <= $('.schedule_block').innerHeight()/2) {
+			$('.schedule_scroll').css('bottom',schedule_bottom+100)
+			schedule_bottom += 100
+		}
+	});
+
+	$('.show_group').click(function(){
+		if ($(this).hasClass('active')) {
+			$(this).parent().find('.alfov_block').hide(300)
+			$(this).removeClass('active')
+		}
+		else
+		{
+			$(this).parent().find('.alfov_block').show(300)
+			$(this).addClass('active')
+		}
+		
+	});
 });
 
 function clear_schudule_active() {
@@ -108,6 +135,7 @@ function clear_schudule_active() {
 	$('.schedule_box').removeClass('active')
 	$('.schedule_group_item').removeClass('active')
 	$('.schedule_group_array').removeClass('active')
+	$('.schedule_box').hide(300)
 }
 
 function is_mobile() {

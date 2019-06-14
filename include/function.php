@@ -324,4 +324,18 @@ function parse($file, $begin, $end)
 	return strip_tags(substr($output, 0, strpos($output, $end)));
 }
 
+function have_time($string)
+{
+	$return = false;
+	for ($i=0; $i < 24; $i++) { 
+		for ($j=0; $j < 5; $j++) { 
+			if (strpos($string,str($i) . '-' . str($j))) {
+				$return = str($i) . '-' . str($j);
+				break;
+			}
+		}
+	}
+	return $return;
+}
+
 ?>
