@@ -131,8 +131,19 @@ require 'include/header.php';
 						}
 					}
 					$alfov = array_unique($alfov);
+					$full_alfov = 'А.Б.В.Г.Д.Е.Ё.Ж.З.И.Й.К.Л.М.Н.О.П.Р.С.Т.У.Ф.Ч.Ц.Ч.Ш.Щ.Э.Ю.Я';
+					$full_alfov = explode('.', $full_alfov);
+					$full_alfov_array = array();
+					foreach ($full_alfov as $key => $value) {
+						foreach ($alfov as $skey => $svalue) {
+							if ($value == $svalue) {
+								$full_alfov_array[count($full_alfov_array)] = $value;
+							}
+						}
+					}
+					$full_alfov_array = array_unique($full_alfov_array);
 					
-					foreach ($alfov as $Akey => $Avalue) {?>
+					foreach ($full_alfov_array as $Akey => $Avalue) {?>
 						<div class='alfov_container'>
 						<button class='alfov_title' onclick='
 						if ($(this).hasClass("active")) {
@@ -335,6 +346,7 @@ require 'include/header.php';
 						?>
 						<div class="alfov_block">
 							<form action="<?php echo $this_url ?>">
+								<input type="hidden" name="week_day" value="<?php echo $week_day ?>">
 								<button name="group_name" value="<?php echo $value['NameGroup'] ?>"><?php echo($value['NameGroup']);?></button>
 							</form>
 						</div>

@@ -103,13 +103,13 @@ function get_schudule_date($param,$write='',$size='')
 	if (isset($_GET['group_name'])) {
 		$group_name = $_GET['group_name'];
 		if ($write=='write') {
-		setcookie('group_name',$group_name,time()+60*60*60);
+		setcookie('group_name',$group_name,time()+60*60*60,'/');
 		}
 	}
 	if (isset($_GET['week_day'])) {
 		$week_day = $_GET['week_day'];
 		if ($write=='write') {
-			setcookie('week_day',$week_day,time()+60*60*60);
+			setcookie('week_day',$week_day,time()+60*60*60,'/');
 		}
 	}
 
@@ -302,6 +302,7 @@ function get_week_day()
 	if (date('l')=='Thursday') { return 'Чт'; }
 	if (date('l')=='Friday') { return 'Пт'; }
 	if (date('l')=='Saturday') { return 'Сб'; }
+	return 'Пн';
 }
 
 function short_convert($value='')
@@ -321,7 +322,7 @@ function parse($file, $begin, $end)
 		return false;
 	}
 	$output = substr($file, $str);
-	return strip_tags(substr($output, 0, strpos($output, $end)));
+	return substr($output, 0, strpos($output, $end));
 }
 
 function have_time($string)

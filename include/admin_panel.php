@@ -627,9 +627,8 @@ require('header.php');
 	<?php if (is_admin()): ?>
 	<?php 
 	$link_list = file_get_contents('http://www.nkse.ru/raspisanie.html');
-	$link_list = substr($link_list, strpos($link_list,'<td colspan="2" class="contentdescription" valign="top">
-'));
-	$link_list = substr($link_list, 0, strpos($link_list,'<p style="text-align: center;"><strong><span style="font-size: 14pt;">Заочное обучение'));
+	$link_list = parse($link_list, '<td colspan="2" class="contentdescription" valign="top">
+', '<p style="text-align: center;"><strong><span style="font-size: 14pt;">Заочное обучение');
 	$link_list = str_replace('<a href="', '<a href="'.$this_url.'?link=', $link_list);
 	$link_list = str_replace('<td style="width: 200px;', '<button', $link_list);
 	$link_list = str_replace('</td>', '</button>', $link_list);

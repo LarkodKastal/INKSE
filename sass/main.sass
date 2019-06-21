@@ -214,9 +214,9 @@
 		flex-wrap: wrap
 		margin-top: 50px
 		justify-content: flex-start
-		width: 60%
+		width: 50%
 		.alfov_container
-			width: 100%
+			width: auto
 			display: -webkit-flex
 			display: -moz-flex
 			display: -ms-flex
@@ -231,8 +231,12 @@
 				border: none
 				background: rgba($d, 0.7)
 				color: #fff
+				animation: alfov_anim 0.5s ease
+				display: none
 				margin: 3px 0
 			.alfov_block
+				animation: alfov_anim 0.5s ease
+				display: none
 				form
 					button
 						width: 60px
@@ -274,6 +278,10 @@
 		display: -o-flex
 		display: flex
 		z-index: 10
+		.show_group
+			display: block
+		.alfov_block
+			display: block
 	.schedule_box_array
 		height: 100%
 		width: 50%
@@ -480,7 +488,6 @@
 			align-content: flex-start
 			flex-wrap: wrap
 			.alfov_container
-				background: rgba($d, 0.3)
 				padding-bottom: 10px
 				button
 					display: none
@@ -489,6 +496,7 @@
 					margin-right: 10px
 					height: 50px
 					width: 50px
+					border-radius: 10px
 					background: rgba($d, 0.7)
 					color: #fff
 					display: block
@@ -1430,7 +1438,7 @@
 					display: -o-flex
 					display: flex
 					flex-wrap: wrap
-					margin: 20px
+					margin: 10px
 					background: rgba($d, 0.5)
 					span
 						border: 2px solid $d
@@ -1500,5 +1508,13 @@
 		transform: rotate(0deg)
 	100%
 		transform: rotate(180deg)
+
+@keyframes alfov_anim
+	0%
+		transform: rotateY(90deg)
+		opacity: 0
+	100%
+		transform: rotate(0deg)
+		opacity: 1
 
 @import "media" // Всегда в конце

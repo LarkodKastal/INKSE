@@ -11,6 +11,7 @@ if (!strpos($file, 'Извините, расписание еще не
 
 // PARSING WEEK DAY //////////////////
 $week_day = parse($file, 'Расписание&nbsp;на&nbsp;', ',&nbsp');
+$week_day = strip_tags($week_day);
 $week_day = substr($week_day, 36);
 $week_day = short_convert($week_day);
 

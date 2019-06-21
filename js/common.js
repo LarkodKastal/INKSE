@@ -95,7 +95,7 @@ $(function() {
 		$('.form_create_user').hide(300);
 	});
 
-	if($('.schedule_block').innerHeight()>450)
+	if($('.schedule_block').innerHeight()>400)
 	{
 		$('.schedule_push').show(300)
 	}
