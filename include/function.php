@@ -339,4 +339,60 @@ function have_time($string)
 	return $return;
 }
 
+function get_theme_date($param='')
+{
+	$style_accent 	= '67,29,86';
+	$style_body 	= '#8f22a3';
+	$style_text 	= '#fff';
+	$style_light 	= '#b5daf1';
+	$style_light_t 	= '#fff';
+
+	if (isset($_COOKIE['theme_name']) && $param=='name') {
+		return $_COOKIE['theme_name'];
+	}
+	if (isset($_COOKIE['theme_name'])) {
+		if ($_COOKIE['theme_name'] == 'dark_magenta') {
+			$style_accent 	= '67,29,86';
+			$style_body 	= '#000';
+			$style_text 	= '#fff';
+			$style_light 	= '#b5daf1';
+			$style_light_t 	= '#fff';
+		}
+	}
+	if (isset($_COOKIE['theme_name'])) {
+		if ($_COOKIE['theme_name'] == 'dark_green') {
+			$style_accent 	= '27, 59, 32';
+			$style_body 	= '#000';
+			$style_text 	= '#fff';
+			$style_light 	= '#35d24f';
+			$style_light_t 	= '#35d24f';
+		}
+	}
+	if (isset($_COOKIE['theme_name'])) {
+		if ($_COOKIE['theme_name'] == 'white_magenta') {
+			$style_accent 	= '161, 122, 181';
+			$style_body 	= '#e9f3cd';
+			$style_text 	= '#000';
+			$style_light 	= '#6f4480';
+			$style_light_t 	= '#6f4480';
+		}
+	}
+	if (isset($_COOKIE['theme_name'])) {
+		if ($_COOKIE['theme_name'] == 'white_green') {
+			$style_accent 	= '168, 202, 157';
+			$style_body 	= '#ecf9e7';
+			$style_text 	= '#000';
+			$style_light 	= '#568449';
+			$style_light_t 	= '#568449';
+		}
+	}
+
+	if ($param == 'accent') 	{ return $style_accent;		}
+	if ($param == 'body') 		{ return $style_body;		}
+	if ($param == 'text') 		{ return $style_text;		}
+	if ($param == 'light') 		{ return $style_light;		}
+	if ($param == 'light_t') 	{ return $style_light_t;	}
+	if ($param == 'name') 		{ return 'classic';	}
+}
+
 ?>
