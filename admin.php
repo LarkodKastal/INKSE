@@ -6,8 +6,8 @@ if (isset($_COOKIE['logining'])) {
 }
 
 if (isset($_POST['submit'])) {
-	$login = $_POST['login'];
-	$password = $_POST['password'];
+	$login = mysqli_real_escape_string($connect , trim($_POST['login']));
+	$password = mysqli_real_escape_string($connect , trim($_POST['password']));
 
 	if (!empty($login) && !empty($password)) {
 		$quary = "SELECT * FROM `users` WHERE username='$login' AND password='$password' ";

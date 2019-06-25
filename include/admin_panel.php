@@ -646,7 +646,7 @@ require('header.php');
 		<div class="parsing_list">
 			<?php echo $link_list;?>
 			<?php if (isset($_GET['link'])): ?>
-				<?php $link = 'http://www.nkse.ru' . $_GET['link']; ?>
+				<?php $links[0] = 'http://www.nkse.ru' . $_GET['link']; ?>
 				<div class="pars_list_title"><h1> Результаты парсинга </h1></div>
 				<div class="pars_list_title"><p> Адрес парсинга: <?php echo('http://www.nkse.ru' . $_GET['link']);?></p></div>
 				<div class="pars_list_title write_title"><a class="write_button" href="<?php echo($this_url . '?link=' . $_GET['link'] . '&write_to_DB=write&success=Результаты парсинга успешно записанны в базу' );?>">Записать в базу данных</a></div>

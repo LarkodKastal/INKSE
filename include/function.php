@@ -395,4 +395,20 @@ function get_theme_date($param='')
 	if ($param == 'name') 		{ return 'classic';	}
 }
 
+function is_actual($array)
+{
+	$out = true;
+	foreach ($array as $key => $value) {
+		if (!empty($value['create_date'])) {
+			if ($value['create_date'] + 3 < date('z')) {
+				$out = false;
+			}
+		}
+	}
+	if (count($array) < 2) {
+		$out = false;
+	}
+	return $out;
+}
+
 ?>

@@ -63,6 +63,14 @@ require 'include/header.php';
 			<div class="respons_schedule">
 				<form action="<?php echo $page_url . '/rember.php'; ?>"><button name="group" class="accent_element_05" value="<?php echo $group_name ?>">Запомнить</button></form>
 				<span class="title def_text"><?php echo($group_name);?></span>
+				<?php if (!is_actual($schudule_list)){ ?>
+						<span class="noactual">Информация не актуальна</span>
+						<a href="<?php echo $this_url . '?&week_day=Пн&no_output=true&write_to_DB=write&AutoWeek=true&week_day='.$week_day ?>">Обновить базу</a>
+					<?php 
+						if (isset($_GET['write_to_DB'])) {
+							include('include/parcer.php');
+						}
+					} ?>
 				<?php for ($l=0; $l < $sch_list_count; $l++) { 
 					?>
 					<div class="respons_item accent_element_contblock <?php if ($sch_num != $sch_list_item[$l]['Num']) { echo " border";}?>" >
@@ -488,11 +496,16 @@ require 'include/header.php';
 		
 	</style>
 
+
+
 	<script src="js/scripts.min.js"></script>
 	<script type="text/javascript">
 		if (document.documentElement.clientWidth >= 768 && window.location.href != "<?php echo $home_url; ?>/main.php") {
 			window.location.href = "<?php echo $home_url; ?>/main.php"
 		}
+		<?php if (isset($_GET['write_to_DB'])): ?>
+			window.location.href = "<?php echo $this_url; ?>"
+		<?php endif ?>
 		$('.week_button').eq(<?php echo($week_int);?>).addClass('active');
 		$('#week_branch').text($('.week_button').eq(<?php echo($week_int);?>).text())
 	</script>

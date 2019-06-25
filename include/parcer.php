@@ -1,19 +1,27 @@
 <?php 
 
 $connect = MYSQL_INCLUDE('get_connect');
-if (!isset($link)) {
-	$link = 'http://www.nkse.ru/html_pages/A_1_pn.htm';
+if (!isset($links)) {
+	$links[0] = 'http://www.nkse.ru/html_pages/A_1_pn.htm';
 }
 
-$file = file_get_contents($link);
+if (isset($_GET['AutoWeek'])) {
+	$links = get_links_list(); //функция в конце
+}
+
+
+
+foreach ($links as $Gskey => $Gsvalue) {
+
+$file = file_get_contents($Gsvalue);
 if (!strpos($file, 'Извините, расписание еще не
   готово')) {
 
 // PARSING WEEK DAY //////////////////
-$week_day = parse($file, 'Расписание&nbsp;на&nbsp;', ',&nbsp');
-$week_day = strip_tags($week_day);
-$week_day = substr($week_day, 36);
-$week_day = short_convert($week_day);
+$P_week_day = parse($file, 'Расписание&nbsp;на&nbsp;', ',&nbsp');
+$P_week_day = strip_tags($P_week_day);
+$P_week_day = substr($P_week_day, 36);
+$P_week_day = short_convert($P_week_day);
 
 ///////////////////////////////////////
 
@@ -132,52 +140,7 @@ foreach ($tn_array as $Mkey => $Mvalue) {
 }
 
 
-function devors($list=array(),$count,$num)
-{
-	$fun_array = array();
-	$tch_AI = 0;
-	$tch_count = (ceil($count/14))*$num;
-	foreach ($list as $key => $value) {
-		$border = 14;
-		$fun_array[0] .= $value . '-!-';
-		$tch_AI++;
-		if ($tch_count<=$num) {
-			$border = $count%14;
-		}
-		//echo($border . ' - ' . $key . '<br />');
-		if ($tch_AI >= $border) {
-			$fun_array[0] .= '-*-';
-			$tch_AI = 0;
-			$tch_count -= 0.5;
-			//echo($tch_count);
-		}
-		
-	}
-	$fun_array = explode('-*-', $fun_array[0] );
-	foreach ($fun_array as $key => $value) {
-		$fun_array[$key] = explode('-!-', $fun_array[$key] );
-	}
-	foreach ($fun_array as $Mkey => $Mvalue) {
-		foreach ($Mvalue as $key => $value) {
-			if ($Mkey%2) {
-				$fun_array[$Mkey-1][$key] .= '-*-' . $fun_array[$Mkey][$key];
-				unset($fun_array[$Mkey][$key]);
-			}
-			if ($fun_array[$Mkey-1][$key] == '-*-' || empty($fun_array[$Mkey-1][$key])) {
-				unset($fun_array[$Mkey-1][$key]);
-			}
-		}
-	}
-	$out = array();
-	foreach ($fun_array as $Mkey => $Mvalue) {
-		foreach ($Mvalue as $key => $value) {
-			if (!empty($value)) {
-				$out[count($out)] = $value;
-			}
-		}
-	}
-	return $out;
-}
+
 
 $teacher_list = devors($teacher_array,count($group_array),count($num_array));
 $numroom_list = devors($numroom_array,count($group_array),count($num_array));
@@ -235,7 +198,7 @@ foreach ($sch_array as $Mkey => $Mvalue) {
 					'teacher'	=> trim($Tvalue),
 					'room'		=> trim($numroom_list[$end_AI][$Tkey]),
 					'group'		=> trim($group_array[$key+$sch_AI]),
-					'week'		=> $week_day);
+					'week'		=> $P_week_day);
 				}
 			}
 		}
@@ -249,26 +212,28 @@ foreach ($sch_array as $Mkey => $Mvalue) {
 	$sch_AJ++;
 }
 
-
-foreach ($schudule_list as $key => $value) {
-	echo('<div class="parsing_result_block">');
-	echo('<span class="num">'.$value['num'].'</span><br />');
-	echo('<span class="name">'.$value['name'].'</span><br />');
-	echo('<span class="time">'.$value['time'].'</span><br />');
-	echo('<span class="teacher">'.$value['teacher'].'</span><br />');
-	echo('<span class="room">'.$value['room'].'</span><br />');
-	echo('<span class="group">'.$value['group'].'</span><br />');
-	echo('<span class="week">'.$value['week'].'</span><br /><br />');
-	echo('</div>');
+if (!isset($_GET['no_output'])) {
+	foreach ($schudule_list as $key => $value) {
+		echo('<div class="parsing_result_block">');
+		echo('<span class="num">'.$value['num'].'</span><br />');
+		echo('<span class="name">'.$value['name'].'</span><br />');
+		echo('<span class="time">'.$value['time'].'</span><br />');
+		echo('<span class="teacher">'.$value['teacher'].'</span><br />');
+		echo('<span class="room">'.$value['room'].'</span><br />');
+		echo('<span class="group">'.$value['group'].'</span><br />');
+		echo('<span class="week">'.$value['week'].'</span><br /><br />');
+		echo('</div>');
+	}
 }
+
 
 if (isset($_GET['write_to_DB'])) {
 	if ($_GET['write_to_DB'] == 'write') {
 		foreach ($schudule_list as $Mkey => $Mvalue) {
 		$group 		= $Mvalue['group'];
-		$week_day 	= $Mvalue['week'];
+		$P_week_day 	= $Mvalue['week'];
 
-		$del_query	= mysqli_query($connect, "DELETE FROM `schedule_list` WHERE GroupName = '$group' AND DayWeek = '$week_day' ");
+		$del_query	= mysqli_query($connect, "DELETE FROM `schedule_list` WHERE GroupName = '$group' AND DayWeek = '$P_week_day' ");
 	}
 
 	foreach ($schudule_list as $Mkey => $Mvalue) {
@@ -278,15 +243,84 @@ if (isset($_GET['write_to_DB'])) {
 		$teacher 	= $Mvalue['teacher'];
 		$room 		= $Mvalue['room'];
 		$group 		= $Mvalue['group'];
-		$week_day 	= $Mvalue['week'];
+		$P_week_day = $Mvalue['week'];
+		$create_d	= date('z');
 
-		$query 		= mysqli_query($connect,"INSERT INTO `schedule_list`(`Num`, `Name`, `Time`, `TeacherName`, `NumRoom`, `GroupName`, `DayWeek`) VALUES ('$num','$name','$time','$teacher','$room','$group','$week_day')");
-	}
+		$query 		= mysqli_query($connect,"INSERT INTO `schedule_list`(`Num`, `Name`, `Time`, `TeacherName`, `NumRoom`, `GroupName`, `DayWeek`,`create_date`) VALUES ('$num','$name','$time','$teacher','$room','$group','$P_week_day','$create_d')");
+		}
 	}
 }
 }
 else
 {
 	echo "<div class='pars_list_title'><h1> Расписание не готово </h1></div>";
+}
+
+}
+
+function get_links_list()
+{
+	if (get_week_day() == 'Пн') { $title = 'pn'; }
+	if (get_week_day() == 'Вт') { $title = 'vt'; }
+	if (get_week_day() == 'Ср') { $title = 'sr'; }
+	if (get_week_day() == 'Чт') { $title = 'ch'; }
+	if (get_week_day() == 'Пт') { $title = 'pt'; }
+	if (get_week_day() == 'Сб') { $title = 'sb'; }
+
+	$out = array();
+
+	$out[0] = 'http://www.nkse.ru/html_pages/A_1_'.$title.'.htm';
+	$out[1] = 'http://www.nkse.ru/html_pages/A_2_'.$title.'.htm';
+	$out[2] = 'http://www.nkse.ru/html_pages/B_1_'.$title.'.htm';
+	$out[3] = 'http://www.nkse.ru/html_pages/B_2_'.$title.'.htm';
+
+	return $out;
+}
+
+function devors($list=array(),$count,$num)
+{
+	$fun_array = array();
+	$tch_AI = 0;
+	$tch_count = (ceil($count/14))*$num;
+	foreach ($list as $key => $value) {
+		$border = 14;
+		$fun_array[0] .= $value . '-!-';
+		$tch_AI++;
+		if ($tch_count<=$num) {
+			$border = $count%14;
+		}
+		//echo($border . ' - ' . $key . '<br />');
+		if ($tch_AI >= $border) {
+			$fun_array[0] .= '-*-';
+			$tch_AI = 0;
+			$tch_count -= 0.5;
+			//echo($tch_count);
+		}
+		
+	}
+	$fun_array = explode('-*-', $fun_array[0] );
+	foreach ($fun_array as $key => $value) {
+		$fun_array[$key] = explode('-!-', $fun_array[$key] );
+	}
+	foreach ($fun_array as $Mkey => $Mvalue) {
+		foreach ($Mvalue as $key => $value) {
+			if ($Mkey%2) {
+				$fun_array[$Mkey-1][$key] .= '-*-' . $fun_array[$Mkey][$key];
+				unset($fun_array[$Mkey][$key]);
+			}
+			if ($fun_array[$Mkey-1][$key] == '-*-' || empty($fun_array[$Mkey-1][$key])) {
+				unset($fun_array[$Mkey-1][$key]);
+			}
+		}
+	}
+	$out = array();
+	foreach ($fun_array as $Mkey => $Mvalue) {
+		foreach ($Mvalue as $key => $value) {
+			if (!empty($value)) {
+				$out[count($out)] = $value;
+			}
+		}
+	}
+	return $out;
 }
 ?>
